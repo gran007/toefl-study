@@ -33,6 +33,8 @@ function getFileList() {
 
 // list 선택시 이벤트
 function fileClick(e) {
+    $(this).addClass('selected');
+    $(this).siblings().removeClass('selected');
     var filePath = $(this).attr('filePath');
     $.ajax({
         url: '/readFile',
@@ -43,6 +45,7 @@ function fileClick(e) {
         success: function(list) {
             textList = list;
             var content = $('.content');
+            content.html('');
             $.each(textList, function(index, item) {
                 var itemList = item.split('\t');
                 if(itemList[0].length != 0) {
