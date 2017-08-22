@@ -16,7 +16,7 @@ function init() {
 }
 
 function getFileList() {
-    $.getJSON('/fileList', function(fileList) {
+    $.getJSON('/writingFileList', function(fileList) {
         var ul = $('<ul></ul>');
         $.each(fileList, function(index, item) {
             var type = item.type;
@@ -86,6 +86,7 @@ function fileClick(e) {
                 } else {
                     index = 0;
                 }
+                isLast = false;
             } else {
                 cookie = false;
             }

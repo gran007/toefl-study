@@ -21,12 +21,20 @@ def find_data_file(filename):
     return os.path.join(datadir, filename)
 
 @app.route('/')
-def hello_world():
+def getIndex():
     return app.send_static_file('index.html')
 
-@app.route('/fileList')
+@app.route('/voca')
+def getVoca():
+    return app.send_static_file('voca.html')
+
+@app.route('/writingFileList')
 def getFileList():
     return json.dumps(fm.readTextFileList(find_data_file('texts')), ensure_ascii=False)
+
+@app.route('/vocaFileList')
+def getVocaFileList():
+    return json.dumps(fm.readTextFileList(find_data_file('voca')), ensure_ascii=False)
 
 @app.route('/readFile', methods=['POST'])
 def getReadFile():
