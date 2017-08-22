@@ -40,7 +40,9 @@
     /*text-align: center;*/
 }
 
-.sidenav ul li.selected {
+
+
+.sidenav ul li .selected {
     background-color: cornflowerblue;
 }
 

@@ -1,3 +1,3 @@
 python setup.py py2exe -p email
-xcopy  static .\toeflWriting\static
-xcopy  texts .\toeflWriting\texts
+xcopy static .\toeflStudy\static /e /h /k
+xcopy texts .\toeflStudy\texts /e /h /k

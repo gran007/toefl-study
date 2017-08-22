@@ -8,13 +8,13 @@ import py2exe
 
 data_files = []
 setup(
-    name='toeflWriting',
+    name='toeflStudy',
     console=['toefl-study.py'],
 
     options={
         'py2exe': {
             'packages':[],
-            'dist_dir': 'toeflWriting', # The output folder
+            'dist_dir': 'toeflStudy', # The output folder
             'compressed': True, # If you want the program to be compressed to be as small as possible
             'includes':[ 'flask', 'json', 'os', 'pathlib', 'sys', 'logging'],
         }

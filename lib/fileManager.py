@@ -3,16 +3,20 @@ import os
 import pathlib
 
 def readTextFileList(path):
-    fileList = []
+    list = []
 
     for p in pathlib.Path(path).iterdir():
-        if p.is_file() and p.suffix == '.txt':
+        if p.is_dir():
+            sublist = readTextFileList(path+'/'+p.name)
+            folderName = p.name.decode('euc-kr').encode('utf-8')
+            list.append({'name':str(folderName), 'type':'folder', 'subList': sublist})
+        elif p.is_file() and p.suffix == '.txt':
             fileName = p.name.decode('euc-kr').encode('utf-8')
             fileName = os.path.splitext(fileName)[0]
             filePath = p.__str__().decode('euc-kr').encode('utf-8');
-            obj = {'filePath':filePath, 'fileName':str(fileName)}
-            fileList.append(obj)
-    return fileList
+            obj = {'path':filePath, 'name':str(fileName), 'type':'file'}
+            list.append(obj)
+    return list
 
 def readTextFile(filePath):
     textList = []

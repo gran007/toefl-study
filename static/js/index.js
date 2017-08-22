@@ -5,12 +5,69 @@ var time = 0;
 var timer;
 var isLast = false;
 var cookie = false;
+var slideDuration = 200;
+
+// javascript 시작시 이벤트
+function init() {
+    getFileList();
+    setPageEvent();
+    setTextAreaEvent();
+    setCheckBoxEvent();
+}
+
+function getFileList() {
+    $.getJSON('/fileList', function(fileList) {
+        var ul = $('<ul></ul>');
+        $.each(fileList, function(index, item) {
+            var type = item.type;
+            var li = $('<li></li>').addClass(type).html(item.name);
+            var ul2 = $('<ul></ul>');
+            ul2.hide();
+            li.append(ul2);
+            $.each(item.subList, function(fileIndex, fileItem) {
+                var li2 = $('<li></li>').addClass(fileItem.type).html(fileItem.name).attr('filePath', fileItem.path);
+                li2.click(fileClick);
+                ul2.append(li2);
+            });
+            li.click(folderClick);
+            ul.append(li);
+        });
+        $('.sidenav').append(ul);
+        var lastSelectedFileName = $.cookie('lastSelectedFileName');
+        index = $.cookie('paragraphIndex');
+        $.each($('.sidenav ul li'), function(index, item) {
+            if($(item).html() === lastSelectedFileName) {
+                item.click();
+                cookie = true;
+                return;
+            }
+        });
+        if(!cookie) {
+            $('.sidenav ul li:first-child').click();
+        }
+    });
+}
+
+function folderClick() {
+    $(this).siblings().removeClass('selected');
+    $(this).siblings().children().slideUp(slideDuration);
+    if($(this).hasClass('selected')) {
+        $(this).removeClass('selected');
+        $(this).children().slideUp(slideDuration);
+    } else {
+        $(this).addClass('selected');
+        $(this).children().slideDown(slideDuration);
+    }
+}
 
 // list 선택시 이벤트
-function listClick() {
+function fileClick(e) {
+    e.stopPropagation();
     time = 0;
     setTimer();
     $(this).siblings().removeClass('selected');
+    $(this).parent().parent().addClass('selected');
+    $(this).parent().slideDown(slideDuration);
     $(this).addClass('selected');
     $.cookie('lastSelectedFileName', $(this).html());
     var filePath = $(this).attr('filePath');
@@ -69,36 +126,6 @@ function getDifference(b)
     return result;
 }
 
-// javascript 시작시 이벤트
-function init() {
-    getFileList();
-    setPageEvent();
-    setTextAreaEvent();
-    setCheckBoxEvent();
-}
-
-function getFileList() {
-    $.getJSON('/fileList', function(fileList) {
-        $.each(fileList, function(index, item) {
-            var li = $('<li></li>').html(item.fileName).attr('filePath', item.filePath);
-            li.click(listClick);
-            $('#text-file-list').append(li);
-        });
-        var lastSelectedFileName = $.cookie('lastSelectedFileName');
-        index = $.cookie('paragraphIndex');
-        $.each($('.sidenav ul li'), function(index, item) {
-            if($(item).html() === lastSelectedFileName) {
-                item.click();
-                cookie = true;
-                return;
-            }
-        });
-        if(!cookie) {
-            $('.sidenav ul li:first-child').click();
-        }
-    });
-}
-
 function setPageEvent() {
     $('.arrowUp').click(function() {
         setPrevPage();
@@ -131,7 +158,7 @@ function setPrevPage() {
         index -= 1;
     } else {
         isLast = true;
-        $('li.selected').prev().click();
+        $('li.file.selected').prev().click();
     }
     if(preIndex != index) {
         $('.textArea').val('');
@@ -146,7 +173,7 @@ function setNextPage() {
         index += 1;
     } else {
         isLast = false;
-        $('li.selected').next().click();
+        $('li.file.selected').next().click();
     }
     if(preIndex != index) {
         $('.textArea').val('');
