@@ -17,6 +17,7 @@ setup(
             'dist_dir': 'toeflStudy', # The output folder
             'compressed': True, # If you want the program to be compressed to be as small as possible
             'includes':[ 'flask', 'json', 'os', 'pathlib', 'sys', 'logging'],
+			'excludes':['jinja2.asyncsupport','jinja2.asyncfilters']
         }
     },
 
