@@ -44,11 +44,20 @@ html.theme-black .content {
 }
 
 .Rtable {
-    display: flex;
+    /*display: flex;
     flex-wrap: wrap;
-    /*margin: 0 0 3em 0;*/
+    margin: 0 0 3em 0;*/
     padding: 0;
     margin-top:40px;
+}
+
+.Rtable-row {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.Rtable-row.on {
+	color:gold;
 }
 
 /*.content {
@@ -89,16 +98,16 @@ html.theme-black .content {
     padding:0;
 }
 
-.Rtable-cell.third .row {
+.Rtable-cell.third .col-row {
     display: flex;
     padding: 19.2px 12.8px;
     border-top: solid 1px white;
 }
 
-.Rtable-cell.third .row .first {
+.Rtable-cell.third .col-row .first {
     width:70%;
 }
-.Rtable-cell.third .row .second {
+.Rtable-cell.third .col-row .second {
     width:30%;
 }
 

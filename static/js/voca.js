@@ -53,29 +53,67 @@ function fileClick(e) {
             var content = $('.content');
             content.html('');
             $.each(textList, function(index, item) {
-                var itemList = item.split('\t');
+				var itemList = item.split('\t');
                 if(itemList[0].length != 0) {
+					var id = name+'-'+itemList[0];
+					
+					var row = $('<div></div>').addClass('Rtable-row').attr('id', id);
+					
+					if($.cookie(id)) {
+						row.addClass('on');
+					}
+					
 					var first = $('<div></div>').addClass('Rtable-cell first').html(itemList[0]);
 					var second = $('<div></div>').addClass('Rtable-cell second').html(itemList[1]);
 					third = $('<div></div>').addClass('Rtable-cell third');
 					
+					first.click(function(){					
+						var parentRow = $(this).parent();
+						var selId = parentRow.attr('id');
+						var savedId = $.cookie(selId);
+						if(savedId) {
+							$.removeCookie(selId, null);
+							parentRow.removeClass('on');
+						} else {
+							$.cookie(selId, { expires : 30 });
+							parentRow.addClass('on');
+						}
+						
+						
+						console.log(selId);
+					});
+					
 					second.click(function(){					
-						var msg = new SpeechSynthesisUtterance(itemList[1]+', '+itemList[3]);
+						var msg = new SpeechSynthesisUtterance(itemList[1]);
 						msg.lang = 'en-US';
 						window.speechSynthesis.speak(msg);
 					});
 					
-					content.append(first);
-                    content.append(second);
-                    content.append(third);
+					row.append(first);
+                    row.append(second);
+                    row.append(third);
+					content.append(row);
                 }
                 /*if(itemList[1].length != 0) {
                 }*/
-                row  = $('<div></div>').addClass('row');
-                third.append(row);
-                row.append($('<div></div>').addClass('first').html(itemList[3]));
-                row.append($('<div></div>').addClass('second').html(itemList[2]));				
-
+                colRow  = $('<div></div>').addClass('col-row');
+                third.append(colRow);
+				var firstCol = $('<div></div>').addClass('first').html(itemList[3]);
+				firstCol.click(function() {
+					var msg = new SpeechSynthesisUtterance();
+						msg.text = itemList[3];
+						msg.lang = 'en-US';						
+						window.speechSynthesis.speak(msg);
+				});
+				var secondCol = $('<div></div>').addClass('second').html(itemList[2]);
+				secondCol.click(function() {
+					var msg = new SpeechSynthesisUtterance();
+						msg.text = itemList[2];
+						msg.lang = 'ko-KR';
+						window.speechSynthesis.speak(msg);
+				});
+                colRow.append(firstCol);
+                colRow.append(secondCol);				
             });
             $('.navButton').click();
             //console.log(textList);
