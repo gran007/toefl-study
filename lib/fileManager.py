@@ -13,7 +13,7 @@ def readTextFileList(path):
         elif p.is_file() and p.suffix == '.txt':
             fileName = p.name#.deocde('ecu-kr')
             fileName = os.path.splitext(fileName)[0]
-            filePath = p.__str__().decode('euc-kr').encode('utf-8');
+            filePath = p.__str__()#.decode('euc-kr').encode('utf-8');
             obj = {'path':filePath, 'name':str(fileName), 'type':'file'}
             list.append(obj)
     return list

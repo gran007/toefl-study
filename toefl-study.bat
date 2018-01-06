@@ -1,1 +1,1 @@
-E:\Python27\python.exe toefl-study.py 50000
+python toefl-study.py 50000

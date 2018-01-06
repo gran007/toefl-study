@@ -38,7 +38,7 @@ def getVocaFileList():
 
 @app.route('/readFile', methods=['POST'])
 def getReadFile():
-    data = json.loads(request.data)
+    data = json.loads(request.data.decode('euc-kr'))
     return json.dumps(fm.readTextFile(data['filePath']), ensure_ascii=False)
 
 if __name__ == '__main__':
