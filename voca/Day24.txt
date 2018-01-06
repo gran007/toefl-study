@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	sustain	떠받치다, 지탱하다	support, bear, uphold
+		지속하다, 유지하다	maintain, continue
+2	subsequence	연속, 이어서 일어나는 것	succession, next in a series
+3	accumulate	(서서히) 모으다	gather, collect, compile, gradually increase in number
+4	assert	주장하다	claim, maintain, declare, forcefully establish, content
+5	progressive	진보적인	advanced, liberal
+		점진적인	increasing, continuous
+6	strikingly	눈에띄게	remarkably, noticeably
+7	comparable	비슷한, 동등한	analogous, similar, equivalent, alike
+8	hinder	방해하다	interfere with, hamper, stunt, impede
+9	concern	걱정시키다	worry
+		관심(사)	interest, regard, care
+10	presumably	아마	supposedly, probably, thought to be, it can be assumed
+11	ritual	의식적인	ceremonial
+12	unresolved	미정의	undecided, undetermined, unsettled
+13	convey	전달하다	transmit, communicate, deliver, impart
+14	devise	고안하다	invent, create, design, contrive
+15	astonish	깜짝 놀라게 하다	amaze, surprise, astound, shock
+16	stringent	엄한	strict, rigorous, tight
+17	vastly	대단히	greatly, enormously, immensely, exceedingly
+18	to a large extent	대체로	for the most part, mainly, largely
+19	updated	최신의	newer
+20	impulse	자극(제)	stimulus, basic motivation, impetus
+21	evidence	증거	proof, verification
+22	conjuncture	결합, 접합	combination, connection, juncture
+23	aberrant	정도를 벗어난	abnormal, deviant, eccentric, erratic
+24	firmly	단단히	securely, fixedly
+25	invariably	언제나, 예외 없이	always, without exception, constantly
+26	sacred	신성한	holy, divine
+27	cramped	비좁은, 제한된	confined, restricted
+28	outdated	구식의	old-fashioned, antiquated, archaic, outmoded
+29	self-confident	자신감 있는	assured, self-assured
+30	allay	완화시키다	reduce, relieve, soothe
+31	authenticity	진짜	genuineness, realness
+32	masked	가면을 쓴, 감춘	concealed, covered
+33	fracture	균열, 갈라진 틈	rupture, crack, gap, cleft
+34	scanty	부족한	scarce, sparse, thin, short, meager
+35	debris	파편, 잔해	fragment, wreckage, remains, dreg
+36	unexpectedly	뜻밖에	surprisingly, unpredictably
+37	marginally	조금	slightly, somewhat, a little
+38	infrequent	드문	uncommon, rare, unusual
+39	capacity	능력, 재능	ability, talent, flair
+40	conceive	상상하다	imagine, envision, visualize
+41	immobile	움직이지 못하는, 정지한	unable to move, motionless
+42	milestone	획기적인 사건	significant event, important event
+43	tempting	매력적인	attractive, appealing, inviting, appetizing
+44	antagonistic	적대하는, 대립하는	hostile, adversarial
+45	prized	뛰어난, 소중한	outstanding, prominent, valued
+46	cognitive	인지(력)의, 정신적 작용의	mental
+47	refuge	피난처	shelter, place of safety, sanctuary
+48	full sweep	모든 범위	whole range
+49	notwithstanding	~에도 불구하고	despite, in spite of
+50	trap	잡다	catch, capture
+51	methodical	체계적인	systematic, organized
+52	emergency	위기, 비상 사태	crisis, exigency
+53	gain	증가	increase, rise, growth, augmentation
+54	signal	신호를 보내다	cue, indicate, communicate, gesture, motion
+55	issue	문제, 논점	matter, point, question
+56	obliterate	지우다	delete, erase, efface
+57	in addition	게다가	moreover
+58	at the same time	동시에, 함께	simultaneously
+59	voracious predator	탐욕스러운 포식자	strong competitor

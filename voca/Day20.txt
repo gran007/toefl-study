@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	harness	(자연의 힘 등을) 이용하다	utilize, put to use, employ
+2	prestige	명성, 위신	high regard, status
+3	radically	철저하게; 근본적으로	extremely, completely; essentially
+4	exhibit	보이다, 나타내다	show, display, present, demonstrate, set forth
+5	deposit	놓다, 두다	lay, place, lay down, set down, leave behind
+6	shatter	산산이 부수다	break, destroy, smash
+7	barren	척박한, 불모의	infertile, sterile, lifeless, unable to sustain life
+8	consent	동의하다	agree, assent
+9	give rise to	~을 초래하다	cause, produce, provoke, bring about
+10	size up	평가하다	evaluate, measure, assess, appraise
+11	mimic	흉내 내다, 모방하다	imitate, copy, reproduce
+12	contiguous	인접한	neighboring, adjacent, adjoining
+13	engage	참여시키다, (대화 등에) 끌어들이다	invlove
+		(방·좌석 등을) 예약하다	reserve, book
+		고용하다	hire
+14	initial	최초의	first, original, earliest
+15	essential	근본적인	fundamental
+		필수적인	indispensable, required
+16	pertinent	관련된	relevant, related, germance
+17	traumatic	정신적 충격이 큰	highly stressful, upsetting, disturbing
+18	on the whole	대체로	in general, generally, overall, by and large
+19	dispersal	확산, 분산	distribution, scattering
+20	sought-after	수요가 많은, 인기있는	desired, desirable, in demand
+21	expand	확장시키다, 확장하다	enlarge, increase, swell, bloat
+22	mastery	통제력, 지배	control
+		전문적 지식	expertise
+23	perpetually	끊임없이	continually, incessantly, ceaselessly
+24	evacuate	대피하다, 비우고 떠나다	move out
+25	excrete	배설하다, 방출하다	expel, discharge, eject
+26	gradually	서서히	slowly, little by little
+27	affluent	풍부한	plentiful, abundant
+		부유한	wealthy, rich, well-off
+28	stationary	움직이지 않는	unmoving, motionless, immobile
+29	cling to	~에 달라붙다	stick to, hold tightly, adhere to
+30	endow	기부하다	donate
+		(능력·재능 등을) 부여하다	grant, provide, endue
+31	verging on	~에 가까운, 거의 ~인	bordering on
+32	contemptuous	업신여기는	scornful, disdainful
+33	accelerate	속도를 높이다	increase in speed, speed up
+34	confirm	확인하다	ascertain, verify
+35	harsh	가혹한	severe, rigorous, inclement
+36	mere subsistence	최저 생계 수단, 생필품	basic living necessaries
+37	adherent	지지자	supporter, advacate
+38	invaluable	매우 귀중한	precious, priceless, valuable
+39	successive	연속적인	sequential, consecutive, serial
+40	coating	코팅, 칠, 입힌 것	layer, film
+41	resume	다시 시작하다	restart, begin again, recommence
+42	dual	이중의	double, twofold
+43	composite	합성물	mixture, compound
+44	illuminate	밝게 하다; 명확하게 하다	light, brighten; clarify
+45	allure	매혹하다	attract, invite, appeal, lure
+46	rekindle	다시 불붙이다, 되살아나게 하다	renew, arouse, reawaken
+47	devastation	파괴	destruction, demolition, ruin
+48	tentative	망설이는, 불확실한	uncertain, unsure
+49	suppose	추측하다	assume, presume, surmise
+50	primitive	초기의	early, primeval
+		발달되지 않은	simple, rudimentary
+51	interrupt	중단시키다	break off
+52	conform	따르다	comply, obey, follow
+53	combine	결합시키다	incorporate, mix, unite
+54	terminal	마지막의	final, last
+55	point out	지적하다, 언급하다	state, indicate, show

@@ -1,0 +1,1 @@
+python toefl-study.py 50000

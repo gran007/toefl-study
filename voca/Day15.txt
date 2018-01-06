@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	intact	손상되지 않은	undamaged, unbroken, whole, complete, unaffected
+2	albeit	비록 ~이지만	although, through, even though
+3	complex	복잡한	intricate, complicated, elaborate, involved
+		복합 건물; 복합체	group of buildings; system
+4	conventional	전통적인; 통례의	traditional; customary, standard, usual
+5	reasonable	합리적인	sensible, rational, logical
+		(가격이) 적당한	sufficient
+6	attainment	성취	achivement, accomplishment, fulfilment
+7	progressively	점진적으로	increasingly
+8	drawback	결점	disadvantage, problem, defect, shortcoming
+9	suppress	억제하다, 참다	hold back, restrain
+		진압하다	stop by force
+10	incidentally	덧붙여 말하자면, 그런데	by the way
+11	tactic	전략	strategy, maneuver
+12	substantial	상당한	(fairly) large, considerable, significant, noticeable
+13	verify	입증하다	confirm, establish the truth of, validate
+14	sustained	지속적인	constant, continued, uninterrupted, prolonged
+15	radical	근본적인	fundamental, basic
+		극단적인, 과격한	extreme, drastic
+16	prime	최고의, 주요한	peak, high-quality, superior, main
+17	grasp	이해하다	understand, catch, comprehend, apprehend
+18	prominently	눈에 띄게	very noticeably, conspicuously, notably
+19	precipitate	재촉하다, 촉진하다	bring about, cause, give rise to, trigger
+20	interlock	서로 맞물리다	link, connect, join
+21	accordingly	그에 따라서	consequently, for that reason
+22	relevant	관련된, 적절한	applicable, pertinent, germane
+23	remarkably	신기하게도	surprisingly
+24	disputable	논란의 여지가 있는	challengeable, debatable, arguable
+25	ambitious	야심 있는	desiring success, aspiring
+26	congeal	굳다, 응고하다	solidify, harden, stiffen, condense
+27	cautious	신중한, 조심성 있는	careful, wary, prudent, discreet
+28	realm	영역, 범위	area, field, sphere, domain
+29	dam	(둑으로) 막다	block, obstruct
+30	flattery	아첨	praise
+31	amplify	확대하다, 증대하다	increase, magnify, enlarge, expand
+32	dimension	크기, 규모	size, magnitude
+33	deplete	다 써버리다; 대폭 감소시키다	exhaust, empty, use up; reduce
+34	characteristic	특유의	distinctive, peculiar, special
+		특징, 특성	quality, feature, trait
+35	ice sheet	대륙 빙하	glacier
+36	spectator	관객, 구경꾼	viewer, onlooker
+37	bountifully	풍부하게	abundantly, copiously, plentifully, exuberantly
+38	suffer paralysis	마비를 겪다	lose the ability to move
+39	variation	변동, 차이	variance, fluctuation, difference
+40	periphery	주변	edge, boundary, border, fringe
+41	apparently	외관상으로는	seemingly, ostensibly, outwardly
+42	far-reaching	광범위한	extensive, widespread, broad
+43	embody	구체적으로 나타내다	incarnate, represent, manifest
+		포함하다	contain, incorporate
+44	evade	피하다	escape, avoid, elude, dodge, shun
+45	against	~에 붙여, ~에 가까이	next to, beside
+46	due to	~로 인한, ~에 기인하는	caused by, owing to, attributable to
+47	classify	분류하다	categorize, arrange, assort
+48	oblige	강요하다	force, require, compel
+49	identical	동일한	same, indistinguishable, equal
+50	intimately	친밀하게	closely
+51	questionable	의심스러운	doubtful, suspicious, dubious
+52	spot	발견하다	detect, see, find
+53	immerse	(물에) 잠그다, 담그다	cover, plunge, dip
+54	not in consensus with	(의견이) ~와 일치하지 않는	not in agreement with
+55	be tempted to	~하고 싶어지다	be inclined to
+56	inception	시작, 개시	beginning

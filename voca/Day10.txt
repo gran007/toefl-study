@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	modify	바꾸다, 조정하다	change, alter, adjust, adapt
+2	initially	처음에	at first, originally, primarily
+3	critical	중요한	(most) important, crucial, essential
+		위독한, 위험한	dangerous, risky
+4	luminous	빛나는	brilliant, bright, shining, glowing
+5	facilitate	용이하게 하다	ease, make easy, help, assist, aid
+6	refinement	개선	small improvement, advancement, enhancement
+7	attribute	특성	characteristic, trait, quality, property
+		~의 탓(덕)으로 돌리다	ascribe, credit, impute, refer
+8	belch	분출하다	suddenly emit, discharge, erupt, vent
+9	underrate	과소평가하다	undervalue, underestimate, belittle
+10	immense	거대한	large, enormous, huge, tremendous
+11	virtue	미덕	goodness
+		장점	merit, desirable quality, strength
+12	bustling	붐비는, 떠들썩한	busy, lively
+13	distinct	다른, 별개의	different, separate, discrete
+		뚜렷한	definite, clear and recognizable
+14	thriving	번영하는	prosperous, successful, flourishing
+15	obvious	분명한	evident, clear, apparent, conspicuous
+16	exceptional	이례적인	extraordinary, abnormal, unusual
+17	cumbersome	다루기 힘든	difficult to handle, burdensome, awkward
+18	boon	큰 이익, 혜택	great benefit, advantage
+19	optimum	최고의	best, most favorable, supreme
+20	uniformly	균일하게, 한결같이	evenly, regularly, consistently
+21	unleash	(속박을) 풀다	release, unloose
+22	acquire	얻다	obtain, gain, procure, earn
+23	enigma	수수께끼	mystery, puzzle, riddle
+24	steadfast	변함없는, 단호한	unwavering, firm, enduring, resolute
+25	dainty	우아한, 섬세한	delicate, exquisite, refined
+26	anomaly	이례적인 것, 예외	irregularity, abnormality, exception
+27	splendid	멋진	marvelous, magnificent
+28	rapport	(친밀한) 관계	bond, relationship, link, tie
+29	question	~에 대해 이의를 제기하다	take a critical look at, dispute
+30	scatter	흩뿌리다	disperse, dissipate, distribute, spread out, widely spread
+31	escalate	확대되다, 증대하다	intensify, increase, mount, rise
+32	temporary	일시적인	short-lived, makeshift, for a limited time, transitory
+33	attest	증명하다, 입증하다	confirm, support, prove
+34	fortify	강화하다	strengthen, reinforce
+35	remove	제거하다	eliminate, extract, withdraw
+36	end	목적, 목표	purpose, goal, aim
+37	plentiful	풍부한	abundant, bountiful, rich
+38	make it	(제시간에) 도착하다	arrive
+39	devastate	완전히 파괴하다	destroy, demolish, ravage, ruin
+40	eminently	대단히, 현저히	exceptionally, highly, extremely
+41	subtraction	삭감, 공제	decrease, deduction, reduction
+42	as a rule of thumb	경험적으로 보아 대게	in general
+43	blur	흐리게 하다	make less distinct, obscure, cloud
+44	relay	전달하다	transfer, communicate, transmit, impart
+45	expandable	펼칠 수 있는, 확장할 수 있는	able to be enlarged, extendable
+46	scrupulous	세심한, 꼼꼼한	careful, fastidious, meticulous
+		양심적인	honest, moral
+47	approximately	대략	about, roughly, nearly
+48	paradoxical	역설적인	seemingly contradictory, ironic
+49	source	근원, 기원	origin, beginning, derivation
+50	adhere	부착되다, 달라붙다	stick, cleave, cling
+51	available	구할 수 있는	accessible, obtainable
+52	get rid of	~을 없애다	eliminate, remove, dispose of
+53	repel	물리치다	drive away, beat off
+54	maximize	극대화하다	increase to the greatest possible degree
+55	outermost	가장 바깥의	farthest away, farthest, most remote
+56	bind	묶다	tie, fasten
+57	visible	눈에 띄는, 명백한	perceptible

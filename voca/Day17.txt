@@ -1,0 +1,64 @@
+순번	단어	뜻	동의어
+1	prolonged	오래 계속되는	lengthy, extended, protracted
+2	relative	상대적인	comparable
+3	ultimate	최종의, 궁극적인	eventual, final, supreme
+		근본적인	fundamental, basic, primary
+4	brittle	부러지기 쉬운, 깨지기 쉬운	easily broken, breakable, fragile
+5	pioneer	선구자	leader, founder
+		개척하다	first develop, (first) start, first use, introduce
+6	heritage	유산; 전통	inheritance, legacy; tradition
+7	impetus	자극	motivation, stimulus, spur, impulse
+8	threshold	한계점, 기준점	limit, margin
+9	intensify	강화하다	reinforce, strengthen, enhance
+10	orchestrate	조직하다	coordinate, organize
+11	hamper	방해하다	obstruct, impede, hinder, restrict, prevent
+12	inhospitable	불친절한	unfavorable, unfriendly
+		살기에 부적당한	not suitable, uninhabitable
+13	roughly	대략	approximately, nearly, about
+14	prevalent	일반적인, 널리퍼진	common, general, widespread
+15	orientation	성향, 경향	perspective, inclination, disposition
+		오리엔테이션	introduction, induction
+16	converge	모이다	come together, meet, move close, gather
+17	inflate	부풀다, 부풀리다	swell, bloat, expand, enlarge
+18	terrain	지역, 지형	land, landscape, territory, area
+19	ciritically	결정적으로	fundamentally, decisively, crucially
+20	in earnest	진지하게	seriously, earnestly, solemnly
+21	agile	민첩한	nimble, quick, active
+22	standstill	정지, 멈춤	complete stop, halt
+23	persuasively	설득력 있게	convincingly, compellingly
+24	miraculous	기적적인, 놀라운	amazing, astonishing, marvelous, unbelievable
+25	intangible	무형의	nonmaterial, impalpable, incorporeal
+26	secure	확보하다	obtain, get, acquire, procure
+		안전한	safe
+27	subsist	생존하다	survive, endure, exist
+28	undoubtedly	확실히	certainly, definitely, without question
+29	dispose of	~을 처리하다	get rid of
+30	archive	공식 기록	official document, record
+31	regenerate	재건하다, 재생시키다	renew, revive, revitalize
+32	mode	방식, 형태	method, form, fashion, style
+33	commemorate	기념하다	celebrate, memorialize
+34	imprecise	부정확한	inexact, inaccurate
+35	state	명시하다	indicate, specify, express
+36	anticipate	예상하다	expect, foresee, predict, forecast
+37	henceforth	지금부터는	from now on, hereafter
+38	transparent	투명한, 명백한	clear, obvious, lucid, limpid
+39	prominence	중요성	importance, greatness
+40	incorporate	통합하다	include, combine, integrate
+41	meticulous	꼼꼼한	careful, through, precise
+42	dismantle	분해하다	take apart, disassemble, break down
+43	lavish	풍부한, 호화로운	rich, deluxe, luxurious
+44	dynamic	역동적인	active, energetic, vigorous, robust
+		원동력, 힘	energy, power, driving force
+45	overlook	간과하다	miss, fail no notice
+46	dormant	활동하지 않는, 휴면 중인	inactive, torpid
+47	exempt	면제된	free, immune, not subject to, excused
+48	as a whole	전체적으로	generally, overall, all together, by and large
+49	rather	오히려	instead
+		좀, 약간	somewhat, slightly
+50	justify	옹호하다, (정당성을) 증명하다	support, prove, give a rational basis of
+51	chaotic	무질서한	disorganized, disordered, anarchic
+52	commence	시작하다	begin, start, originate, initiate
+53	improvised	즉흥의	unplanned, unprepared, unrehearsed
+54	stem from	~에서 유래하다	originate from, derive from, arise from
+55	judiciously	현명하게, 분별있게	wisely, sensibly, prudently
+56	tolerate	용인하다, 허용하다	accept, allow, permit

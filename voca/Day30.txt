@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	pose	(위협 등을) 가하다, 일으키다	present, create, give rise to
+2	principal	주요한	most important, major, main, prime
+3	assorted	다채로운	various, varied, diverse
+4	ruthlessly	무자비하게	without mercy, relentlessly, cruelly
+5	fluctuate	변동하다	change, vary
+6	viability	생존 능력	ability to exist, ability to live
+		실행 가능성	feasibility
+7	precarious	불안정한	unstable, insecure, uncertain
+8	imply	시사하다	suggest, indicate, connote
+9	diverge	갈라지다	separate, move apart, part, branch
+10	previously	이전에	formerly, before, antecedently
+11	portray	묘사하다, 보여주다	depict, show, picture, describe
+12	suitable	적절한	appropriate, proper, apt
+13	retard	지체시키다	slow down, delay
+14	entirely	완전히	completely, wholly, totally, thoroughly
+15	abruptly	갑자기	suddenly, unexpectedly
+16	instructive	교육적인, 유익한	informative, educational, helpful, useful
+17	converse	반대의	opposite, reverse
+18	shortcoming	결점, 단점	weakness, disadvantage, defect, failing
+19	vicinity	주변, 인근	neighborhood, area
+		근접	closeness, proximity
+20	abort	중단하다	quit, halt, call off
+21	broaden	넓히다	widen, expand, enlarge, develop
+22	whereas	~에 반하여	while
+23	prodigious	막대한	massive, enormous
+24	artisan	장인	craftsman, craftsperson
+25	motif	무늬	design, pattern, device
+26	antique	고대의, 오래된	ancient, archaic, old
+27	incessantly	끊임없이	constantly, continuously, persistently
+28	habitat	서식 환경; 거주지	environment; home, dwelling, living quarters
+29	steadfastly	확고하게	firmly, solidly, resolutely
+30	keenly	강렬하게, 몹시	deeply, intensely, acutely
+31	intercourse	교류, 교환	exchange, interchange
+32	episode	하나의 사건	event, occurrence, incident, happening
+33	bound for	~행의, ~를 향한	going to, destined for
+34	penchant	경향, 기호	inclination, tendency, fondness, liking
+35	incipient	초기의	initial, beginning
+36	distort	왜곡하다	misrepresent, twist, falsify
+37	redundancy	불필요한 중복; 과잉	duplication; superfluity, extra capacity
+38	subject to	~에 영향을 받기 쉬운	susceptible to, likely to get
+39	bountiful	풍부한	abundant, plentiful, ample, prolific
+40	deter	방해하다, 막다	stop, preclude, prevent, inhibit
+41	roundabout	우회적인, 간접적인	indirect, circuitous
+42	dim	희미한	faint, weak, obscure
+43	dubious	의심스러운	suspected, suspicious, distrustful, questionable
+44	alarm	공포	fear, fright, terror
+		놀라게 하다	surprise, startle, dismay
+45	eminent	뛰어난	distinguished, outstanding, prominent
+46	perceptibly	눈에 띄게, 상당히	noticeably, appreciably, sensibly
+47	ubiquitous	어디에나 존재하는	omnipresent, universal
+48	dryness	건조	ardity, aridness, drought
+49	constricted	좁은, 죈	narrow, contracted
+50	elicit	(정보·반응 등을) 끌어내다	call forth, obtain, extract
+51	intervening years	사이에 있는 세월	between years
+52	embrace	받아들이다	accept, take up, receive, adopt
+53	efficacy	효능	effectiveness, efficiency, potency
+54	reckless	부주의한	careless, heedless, inadvertent
+55	diversification	다양화	the emergence of many varieties
+56	dismiss	무시하다, 묵살하다	ignore, disregard
+57	etch	새기다	cut, carve, engrave
+58	precision	정확성	accuracy
+59	currently	현재는, 지금은	at the present time

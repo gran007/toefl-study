@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	disperse	흩어지게 하다; 퍼뜨리다	scatter, dissipate; spread, disseminate
+2	adjacent	인접한	nearby, neighboring, adjoining
+3	sequence	연속	progression, series, string, succession
+		순서	order
+4	detect	발견하다, 인지하다	discover, find, identify, recognize, sense
+5	flexible	유연한; 적응성 있는	pliable, bendable; adaptable, adjustable
+6	surpass	능가하다	exceed, outrun, be higher than, excel
+7	invariable	변함없는	constant, consistent, unchanging
+8	dramatic	극적인, 인상적인	striking, significant, impressive
+9	master	습득하다	learn thoroughly, learn, acquire
+		제어하다	control, manage
+10	assimilate	(지식 등을) 흡수하다, 이해하다	absorb, take in, digest
+11	overwhelming	압도적인, 굉장한	powerful, enormous, compelling, tremendous
+12	curious	호기심이 강한	inquisitive, questioning, inquiring
+		이상한, 별난	strange, mysterious, extraordinary
+13	alteration	변화, 수정	change, modification
+14	consequence	결과	result, effect, ramification, outcome
+		중요성	importance, significance
+15	deceive	속이다	mislead, delude, cheat
+16	ample	넓은, 광대한	sizable, large, spacious, vast
+		풍부한	plentiful, abundant, more than enough
+17	resilient	금방 회복하는	quick to recover, easy to recover
+18	detach	분리하다	separate, disconnect, disengage
+19	account	(사건 등에 대한) 기술, 보고	description, report, narrative
+20	equilibrium	균형	balance, symmetry
+21	surmise	추측하다	infer, guess, speculate, suspect
+22	unsuitable	적합하지 않은	inappropriate, unfit, improper
+23	imaginative	창의적인	creative, inventive, original
+24	imposing	인상적인	impressive, striking
+25	vitality	활력	, chaseliveliness, vigor
+26	vehicle	수단, 매체	means, medium, instrument
+27	hitherto	지금까지	previously, so far, until now
+28	plague	괴롭히다	cause a problem for, bother, annoy
+29	domain	영역	area, field
+30	indifferent	무관심한	uninterested, unconcerned, careless
+31	champion	옹호하다	support, promote, advocate, endorse
+32	deteriorate	악화되다	get worse, degenerate
+33	assault	폭행하다, 공격하다	attack, aggress, assail
+34	appropriate	적절한	suitable, proper, applicable
+35	adept	능숙한	skillful, proficient, deft, adroit
+36	indeed	사실은	in truth, in fact
+37	pursuit	취미, 오락	interest, pastime, hobby
+38	incite	자극하다	stimulate, provoke, inflame, spur
+39	guarantee	보장하다	ensure, secure, warrant
+40	prosperity	번영	economic well-being, wealth, fortune
+41	primarily	주로	mostly, mainly, chiefly
+		원래, 처음에	originally, at first, initially
+42	erupt	폭발하다	explode, burst, blow up
+43	trace	자취, 흔적	evidence, vestige, imprint, mark
+44	prestigious	명성이 있는	highly regarded, esteemed, respected
+45	shape	(영향을 미쳐) 형성하다	affect, form, influence
+46	inflict	(고통 등을) 주다, 가하다	cause, administer, exact
+47	portion	부분	part, segment, fragment
+48	coincidence	우연의 일치	chance happening
+49	propel	몰아내다	push, force, drive, impel
+50	thoroughly	철저히, 완전히	completely, entirely
+51	contemplate	곰곰이 생각하다	consider, ponder
+52	unethical	비윤리적인	improper, immoral
+53	replicate	모사하다, 복제하다	reproduce, copy, duplicate
+54	hasty	황급한, 서두르는	hurried, rushed
+55	representative	나타내는; 전형적인	indicative; typical, exemplary
+56	range	범위	scope, spectrum, extent

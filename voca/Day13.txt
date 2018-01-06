@@ -1,0 +1,64 @@
+순번	단어	뜻	동의어
+1	merely	단지	simply, only, no more than, just, purely
+2	decimate	(많은 사람을) 죽이다	destroy, eliminate, wipe out, demolish, devastate
+3	incentive	동기, 자극	motivation, motive, encouragement, inducement
+4	retrieve	되찾다	bring back, get back, recover, obtain, regain
+5	compress	압축하다	condense, compact, contract, crush
+6	designate	명시하다	indicate, identify, specify, define
+7	dissemination	보급, 유포	spread, distribution, diffusion
+8	marked	두드러진, 현저한	noticeable, considerable, prominent, discernible
+9	hypothetical	가상의, 가정의	supposed, imaginary
+10	flow	흐름; 이동	stream, current; movement, motion
+11	precise	정확한	exact, accurate, definite
+12	stipulate	(조건으로서) 요구하다	require, demand, call for
+13	perspective	관점	point of view, viewpoint, orientation
+14	enhance	향상시키다	improve, enrich, intensify
+15	fundamental	근본적인, 기본적인	essential, basic, primary, elementary
+16	evident	분명한	clear, apparent, obvious, manifest
+17	shift	옮기다, 바꾸다	move, transfer, change, switch
+18	unique among	~중에서 유일무이한	different from other
+19	full-fledged	완전히 발달한	well-developed, full-blown
+20	laborious	인내를 요하는, 힘든	difficult, strenuous
+21	emit	내뿜다, 방출하다	give off, exhale, release, discharge, send out
+22	stunning	놀랄 만큼 멋진	amazing, impressive, breathtaking, spectacular
+23	tantalizing	흥미를 돋우는	tempting, enticing
+		감질나는	teasing
+24	abandoned	버려진	no longer occupied, deserted, vacant
+25	transmit	전하다	convey, communicate, send
+26	candidly	솔직히	honestly, frankly, plainly
+27	compulsorily	의무적으로	by requirement, obligatorily, mandatorily
+28	aid	돕다	assist, support, help, back
+29	deliberation	토의	discussion, debate, conference
+30	preposterous	터무니없는	unbelievable, absurd, nonsensical
+31	sparse	드문드문한	scattered, thinly distributed
+		부족한	scanty, meager, scarce, limited
+32	occasionally	가끔	once in a while, now and then, sometimes
+33	inconceivable	상상도 할 수 없는	unthinkable, unimaginable
+34	breeding	번식	reproduction, propagation
+35	overriding	가장 중요한	dominant, chief, principal
+36	favor	더 좋아하다	prefer, lean toward
+37	sediment	침전물	remains, deposition
+38	clever	영리한	ingenious, smart, brilliant, bright
+39	consistently	일관되게	regularly, typically, unchangingly
+40	rate	평가하다	judge, assess, evaluate
+41	predominate	우세하다	outweigh, prevail
+		지배적인, 우세한	most popular
+42	realize	깨닫다, 이해하다	be aware of, understand, catch on
+		달성하다, 실현하다	achieve, accomplish, fulfill
+43	circuitous	우회하는	indirect, roundabout
+44	owing to	~때문에	due to, because of, as a result
+45	model	견본	specimen, prototype, example
+46	with respect to	~에 관하여	with regard to, in terms of, in reference to
+47	continuous	계속되는	uninterrupted, ongoing, unceasing, consecutive
+48	collaborate	협력하다	cooperate, put effort together, work together
+49	anonymous	익명의, 신원 불명의	unknown, unnamed, unidentified, innominate
+50	somewhat	어느정도	to some degree, to some extent, rather
+51	damaging	해로운	harmful, detrimental, noxious
+52	dramatically	극적으로, 몹시	greatly, substantially, remarkably
+53	heighten	고조시키다	increase, intensify
+54	share	몫	portion, part, allotment
+55	shortly	곧	soon, presently
+56	besides	게다가	in addition, moreover
+		~외에	apart from
+57	seep	스며 나오다	ooze, flow slowly, pass through slowly
+58	habit	습관	usual behavior, custom, practice

@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	skeptical	의심 많은	doubting, incredulous, dubious, suspicious
+2	optimal	최적의, 최선의	best, ideal, most satisfactory
+3	hint	암시, 단서	indication, implication, clue
+4	challenge	문제, 난제	difficulty, problem
+		이의를 제기하다	question, dispute
+5	potentially	어쩌면	possibly, perhaps, maybe
+6	compel	강요하다	force, oblige, require, coerce
+7	simultaneously	동시에	at the same time, concurrently, in parallel
+8	static	변화가 없는, 고정된	unchanging, immobile, unmoving
+9	retain	보유하다, 유지하다	preserve, keep, maintain
+10	strictly	엄격히, 엄밀히	rigorously, severely, tightly, precisely
+		오로지	only, exclusively, solely
+11	exceptionally	유난히	uncommonly, unusually, distinctively
+12	consequently	그 결과, 따라서	as a result. therefore, hence, thus
+13	obtain	얻다, 획득하다	acquire, gain, earn, derive, archive
+14	epitomize	~의 전형이 되다	exemplify, typify, represent
+		요약하다	summarize, abridge
+15	aggregate	총계의; 집합적인	overall, total; combined, collective
+		모이다, 모으다	gather, collect, combine, accumulate, amass
+16	in principle	이론상으로	theoretically, in theory, on paper
+17	sequentially	연속적으로, 순차적으로	consecutively, successively
+18	surveillance	감시	observation, watch, supervision
+19	accompany	동반하다	occur with, come with
+20	hazardous	위험한	dangerous, perilous, risky, unsafe
+21	thwart	좌절시키다	frustrate
+22	vanish	사라지다	disappear, fade, evaporate
+23	synthesis	통합	combination, union, integration
+24	forum	공공 광장	public area, public square
+25	invade	침입하다	trespass, enter, intrude, raid
+26	quarters	주거, 숙소	residence, dwelling, habitation, abode
+27	abolish	(법률·제도 등을) 폐지하다	eliminate, end, annul, revoke, nullify
+28	staggering	충격적인	shocking, astonishing, stunning, astounding
+29	disclose	(비밀 등을) 밝히다, 폭로하다	reveal, divulge, unveil
+30	scores	다수	a large number, host, crowd, multitude
+31	eager to	~을 하고 싶어하는	anxious to, keen to, impatient to
+32	systematically	체계적으로	methodically
+33	stimulate	자극하다, 활성화시키다	prompt, spur, promote, activate
+34	limited	제한된, 한정된	restricted, narrow, confined
+35	excessive	지나친	extreme, undue, exorbitant
+36	similar	비슷한	comparable, alike, analogous
+37	entitled to	~할 권리가 있는	given the right to, authorized, qualified to
+38	constantly	끊임없이	continually, continuously, perpetually, always
+39	turbulence	소란, 동요	agitation, tumult, commotion, turmoil
+40	essence	본질	fundamental, essentiality, substance, nature
+41	back up	지지하다, 지원하다	support, stand by, aid, assist
+42	flexibility	융통성, 적응성	adaptability, adjustability, versatility
+43	archaic	구식의	antiquated, outdated, old, primitive
+44	eject	쫓아내다	force out, throw out, expel
+45	interpret	해석하다; 이해하다	construe, explain; understand
+46	intensity	강도, 세기	strength
+47	sloping	경사진	inclining, inclined, slated
+48	endeavor	노력하다, 시도하다	make an effort, strive, struggle, attempt
+49	circumvent	우회하다	get around, bypass, detour
+50	counterproductive	역효과를 낳는	contrary to what is necessary
+51	lucid	명료한	clear, obvious, distinct
+52	delineate	(윤곽 등을) 그리다	outline, trace
+53	practical	실용적인; 효과적인	pragmatic, functional; effective
+54	revere	존경하다, 숭배하다	honor, admire, venerate, respect
+55	unpromising	가망이 없는	unfavorable
+56	heed	주의	attention, notice, caution
+57	location	장소, 지역	region, site, position, place
+58	opposing	상반되는, 모순되는	conflicting

@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	analogous	유사한	similar, comparable, like, parallel
+2	repercussion	(사건·행동 등의) 영향	effect, consequence, result
+3	impart	주다, 부여하다	give, provide, bestow, offer, grant
+4	foster	조장하다	encourage, promote
+5	elongate	늘이다	stretch, lengthen, extend, prolong
+6	in tandem with	~와 협력하여	in association with, in conjunction with
+7	transition	변화, 변천	change, alteration, shift
+8	scarce	부족한; 희귀한	limited, short in supply, not readily available; rare
+9	clear	분명한	apparent, obvious, lucid
+		치우다	remove, clean
+10	relentless	끊임없는	continuous, unceasing, persistent
+11	intrinsic	고유의, 타고난	inherent, innate
+12	compact	빽빽한	dense, thick
+		작은	smaller, pocket-sized, little
+		압축하다	compress, condense
+13	predominantly	주로, 대부분	mainly, primarily, mostly, largely
+14	widespread	광범위한, 널리 퍼진	prevalent, broadly accepted, common
+15	perishable	잘 상하는, 썩기 쉬운	likely to decay, likely to spoil, spoilable
+		영속하지 않는	not permanent
+16	myriad	무수히 많음	multitute, millions
+		무수한	countless, innumerable, numerous
+17	found	창설하다, 설립하다	establish, create, set up
+18	swiftly	빠르게	quickly, speedily, rapidly
+19	crucially	결정적으로	decisively, critically, definitively
+20	scope	범위	extent, range, reach
+21	projection	추정, 예상	estimate, calculation, forecast, prediction
+22	feature	특징	characteristic, attribute, quality
+23	employ	사용하다	use, utilize, make use of
+24	proportion	비율	percentage, rate
+		크기, 규모	size, magnitude
+25	misleading	현혹시키는	deceptive, unreliable, delusive
+26	seamless	아주 매끄러운	perfectly smooth
+27	embellishment	장식(물)	decoration, ornamentation, adornment
+28	sterile	척박한	barren, unproductive, infertile
+29	in response to	~에 대한 대응으로	in reaction to
+30	from time to time	가끔	occasionally, now and then
+31	ambiguous	모호한	open to various interpretations, uncertain, obscure
+32	out of sight	보이지 않는 곳에	hidden, invisible
+33	perplexed	당혹스러운	puzzled, bewildered
+34	despondent	낙담한	unhappy, discouraged, depressed
+35	collide	충돌하다	hit each other, crash, strike
+36	assessment	평가	evaluation, appraisal
+37	vital	매우 중요한	essential, important, significant
+38	shrivel	시들다	dry up, wither, wilt
+39	dissent	이의를 제기하다	oppose, object, express disagreement
+40	elegant	품위 있는, 세련된	sophisticated, graceful, refined
+41	qualify	자격을 갖추다; 가격을 주다	meet the requirement; entitle, empower
+42	evolve	(서서히) 발전하다, 진화하다	develop, progress
+43	despite	~에도 불구하고	in spite of, notwithstanding
+44	emergence	출현	appearance, advent, rise
+45	surplus	과잉, 잉여물	excess, redundance, extra goods
+46	distant	먼	faraway, remote
+47	aim	목적, 목표	goal, objective, purpose
+		목표하다, 겨냥하다	attempt
+48	in the ascendant	(인기·세력 등이) 상승 중인	rising in importance
+49	draw	(마음·이목 등을) 끌다	attract, engage
+50	overlie	~위에 가로놓이다	cover, overspread
+51	signature	서명	identifying mark
+52	devoid of	~이 없는, 결여된	lacking in, destitute of
+53	vessel	배, 선박	ship, boat, craft
+54	be incorporated in	포함되다, 편입되다	be part of
+55	trauma	외상, 외상성 상해	damage

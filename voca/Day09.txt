@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	initiate	시작하다	start, begin, originate, commence
+2	tremendous	엄청난	great, large, gigantic, huge
+3	breakthrough	큰 발전	(sudden) advance, progress
+4	cope with	~에 대처하다, ~을 다루다	deal with, manage, handle
+5	inducement	유인(책), 장려	incentive, incitement, lure
+6	irreversible	돌이킬 수 없는	irreparable, irrevocable, irremediable
+7	comprise	포함하다	include, encompass
+		~으로 구성되다	consist of, be made up of, be composed of
+8	culmination	정점, 최고조	high point, apex, pinnacle
+9	allegiance	충성, 헌신	loyalty, fidelity, commitment, dedication
+10	notable	주목할 만한; 중요한	remarkable, outstanding; important
+11	idiosyncrasy	특징, 이상한 점	peculiarity, eccentricity, oddity
+12	minute	아주 작은	tiny, very small, diminutive
+13	markedly	현저하게	significantly, noticeably, considerably, substantially
+14	phenomenon	현상, 사건	occurrence, incident
+15	disseminate	퍼뜨리다	spread, disperse, distribute
+16	current	현재의	present, existing
+17	detrimental	해로운	harmful, injurious, damaging, pernicious
+18	presume	~이라고 생각하다, 추정하다	believe, accept as true
+19	anarchy	무질서, 혼란	disorder, chaos, disorganization
+20	snake	구불구불 가다	wind, meander, curve, twist
+21	sophisticated	정교한, 고도로 발달한	complex, highly developed
+22	derive	유래하다; 얻다	originate, trace; obtain, gain
+23	sole	유일한	only, single, solitary
+24	embellish	장식하다	decorate, make attractive, adorn, beautify, ornament
+25	antagonize	~의 반감을 사다; 대항하다	anger, aggravate; counteract
+26	yearn	갈망하다	long, desire, crave, pine
+27	permit	허락하다	allow, let, approve
+28	scarcity	부족	lack, shortage, insufficiency, deficiency
+29	renounce	포기하다, 버리다	give up, reject, relinquish
+30	keep in check	제어하다, 억제하다	limit, control, restrict, restrain
+31	subsistence	생존	survival, existence, living
+32	annually	매년	each year, yearly, every year
+33	emerge	나타나다	appear, loom, spring up, come out, develop
+34	customary	습관적인, 관례적인	habitual, traditional, typical, accustomed
+35	widely	널리	extensively, broadly
+36	assign	지정하다	specify, designate, appoint
+37	equivocal	모호한	ambiguous, vague, obscure, uncertain
+38	release	석방하다	free, liberate, loose
+		방출하다	emit, give off, discharge, exude
+39	essentially	기본적으로, 본질적으로	basically, fundamentally, primarily
+40	oversee	감독하다	supervise, control, superintend
+41	rapidly	급속히, 빨리	quickly, fast
+42	acknowledge	인정하다	recognize, admit, accept
+43	rough	울퉁불퉁한, 거친	uneven, rugged, bumpy, coarse
+44	preclude	막다	prevent, stop, hinder
+		배제하다	rule out, exclude
+45	portable	휴대용의	able to be carried, mobile, movable
+46	presumable	그럴듯한, 있음직한	probable, likely, possible
+47	calculatedly	계획적으로	deliberately, intentionally, knowingly
+48	deviation	일탈	departure, divergence, aberration
+49	hairline	아주 가느다란	slight, thin
+50	formulate	고안하다, 발전시키다	develop, devise, forge
+		명확히 말하다	state, specify, express
+51	astute	통찰력 있는; 영악한	insightful, shrewd; clever, sharp
+52	reliable	신뢰할 수 있는	dependable, trustworthy, credible
+53	take precedence over	~보다 우선하다	be more important than, come before
+54	allusion	(간접적인) 언급, 암시	reference, mention, implication, suggestion
+55	locomotion	이동 능력	movement, motion
+56	principally	주로	mainly
+57	rebellion	반란	uprising, revolt
+58	revive	회복하다, 소생하다	recover

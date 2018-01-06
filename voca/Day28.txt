@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	abundance	다수, 풍부	plenty, large number, profusion
+2	onset	시작	beginning, start, commencement
+3	witness	목격하다	observe, see, look on
+4	mount	증가하다	grow, increase, multiply
+5	reinforce	강화하다	strengthen, support, consolidate, fortify
+6	intense	강렬한, 극심한	strong, extreme, fierce, acute
+7	involved	복잡한	complicated, intricate, tangled
+8	solely	오로지	only, purely, exclusively, entirely
+9	undergo	(변화 등을) 겪다, 경험하다	experience, go through, suffer
+10	mechanism	기계, 장치	instrument, device, apparatus
+		방법	means, method, way
+11	speculate	추측하다	guess, suppose, hypothesize, assume
+12	conclusively	결정적으로	decisively, definitively
+13	significantly	상당히	considerably, remarkably, markedly
+14	adopt	채택하다, 받아들이다	take up, begin to use, select
+15	staple	주요 상품, 주요소	basic item, regular feature, basic feature
+		기본적인, 주요한	basic, primary
+16	secrete	분비하다	release, produce, excrete
+		숨기다	conceal, hide, veil
+17	pursue	실행하다, 수행하다	practice, conduct, perform
+18	conserve	보존하다, 보호하다	keep, protect, save, preserve
+19	toil	힘써 일하다	work hard, labor
+20	approximate	대략적인; 가까운	rough; close, near
+		비슷하다	resemble
+21	monumental	엄청나게 큰, 기념비적인	huge, massive, great and significant
+22	contract	줄이다, 수축하다	shorten, constrict
+23	puzzling	영문 모를	difficult to explain, enigmatic
+24	divest	빼앗다, 박탈하다	deprive, strip, despoil
+25	pacifier	중재자	peacemaker, arbitrator, mediator, intermediary
+26	permanently	영구히	forever, eternally, perpetually, everlastingly
+27	estimate	평가하다, 추산하다	assess, evaluate, judge, calculate
+28	hurdle	장애물	opstacle, barrier, hindrance, impediment
+29	relish	즐기다	enjoy, like, delight in, revel in
+30	simulate	흉내 내다, 가장하다	imitate, pretend, feign
+31	hover	맴돌다, 떠다니다	drift, float, stay on the top
+32	display	보여주다	show, exhibit, present
+33	ominous	불길한; 험악한	foreboding, portentous; threatening 
+34	stretch	늘이다	extend, lengthen
+35	concur	동의하다	agree, assent, consent
+36	crisis	위기	critical situation, emergency
+37	amplitude	크기, 규모	size, extent, magnitude
+38	disintegrate	붕괴되다	break down, fall apart, crumble
+39	liken to	~에 비유하다	compare to
+40	immoral	부도덕한	improper, corrupt, vicious
+41	instigate	유발하다	cause, provoke, trigger, incite
+42	extraordinary	비범한	exceptional, unusual, remarkable
+43	resurgence	재기, 부활	comback, revival, rebirth
+44	patent	명백한	evident, obvious, apparent, manifest
+45	regular	정기적인; 일정한	routine, ordinary; consistent
+46	by virtue of	~덕분에(때문에)	because of, thanks to, on account of
+47	sever	자르다, 분리하다	cut, cut off, part, separate, divide
+48	in conjunction with	~과(와) 함께	concomitant with, together with, along with
+49	confidence	확신	certainty, assurance, faith
+50	distinguish	구별하다	differentiate, tell apart, discern
+51	on the contrary	그와는 반대로	conversely, on the other hand
+52	preponderance	대부분	majority
+53	intermingle	섞이다	mix, blend
+54	merchandise	상품	goods, product, commodity
+55	delicate	깨지기 쉬운	fragile, brittle
+		섬세한	dainty, exquisite, fine
+56	promising	유망한	likely, hopeful
+57	gesture	제스처, 몸짓	a movement made with the head, hand or arm

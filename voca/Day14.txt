@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	lethal	치명적인	deadly, dangerous, fatal, pernicious
+2	modest	그리 크지(많지) 않은; 수수한	small, not large, limited; simple
+3	component	구성요소	element, constituent, ingredient, part, factor
+4	exploitation	(부당한) 이용, 착취	use, abuse, misuse
+5	relic	유물, 나머지	remains, remnant, vestige
+6	profoundly	깊이; 대단히	deeply; completely, strongly
+7	deflect	방향을 바꾸다	change the direction of, divert
+8	higlight	강조하다	emphasize, stress, underline, accent
+9	exert	(힘, 능력 등을) 가하다, 행사하다	apply, exercise, employ, put forth, wield
+10	potential	잠재적인	possible, prospective, latent
+		가능성	possibility
+11	recurring	되풀이되는	repeated, recurrent
+12	meager	불충분한	scanty, scarce, vely low, deficient
+13	prevail	널리 퍼지다, 만연하다	be dominant, dominant, be widespread, be prevalent
+		이기다	triumph
+14	exclusively	오로지, 전적으로	solely, only, entirely, totally
+15	consensus	합의	agreement, consent
+16	now and then	가끔	occasionally, from time to time, at times
+17	discrete	별개의	separate, distinct, individual
+18	anchor	고정시키다	hold in place, secure, fasten
+19	improbable	있음직하지 않은	unlikely, implausible, doubtful
+20	pragmatic	실용적인	practical, utilitarian
+21	undisputed	모두가 인정하는	acknowledged, accepted, recognized
+22	allocation	할당, 배분	distribution, assignment, allotment
+23	inconclusive	결정적이지 않은	not definitive, indecisive
+24	withstand	견디다	endure, resist, sustain
+25	cornerstone	토대, 기초	foundation, basic element, basis, underpinning
+26	marvelous	놀라운	wonderful, astonishing, amazing
+27	clue	단서, 증거	information, indication, evidence, trace, sign
+28	unintentionally	의도치 않게	inadvertently, accidentally, unconsciously
+29	peak	정점, 절정	height, pinnacle, summit, maximum
+30	continual	끊임없는	constant, incessant, ceaseless
+31	thorough	철저한	complete, exhaustive, intensive
+32	accurate	정확한	precise, correct, exact, true
+33	mobilize	동원하다	put into action, deploy
+34	given that	~을 고려하면	accepting that, considering that
+35	cargo	화물, 짐	shipment, load, freight, burden
+36	solitary	외딴; 외로운	isolated, secluded, remote; alone, lonely
+37	slightly	약간	a little, somewhat, a bit
+38	deliberately	일부러	intentionally, consciously, on purpose
+39	unthinkable	상상도 할 수 없는	inconceivable, unimaginable
+40	coinage	신조어	creation, innovation
+41	obligation	의무, 책임	responsibility, duty, liability
+42	reconcile	화해시키다	bring together, reunite
+43	severe	엄한, 가혹한	harsh, extreme, rigorous, strict
+44	foremost	으뜸가는	most respected, most important, preeminent, supreme
+45	surge	급증하다	increase, rise, wax
+46	hasten	재촉하다	accelerate, rush, hurry, speed up
+47	tentatively	머뭇거리며	without certainly, uncertainty, hesitantly
+48	scorn	비웃다, 경멸하다	ridicule, disdain, sneer, despise
+49	throughout	~동안, 내내	during every part of, during the whole of
+50	pitfall	위험, 어려움	difficulty, trouble
+51	coupled with	~과 결합된	together with, combined with
+52	huge	거대한	enormous, large, massive, mammoth, gigantic
+53	span	기간	duration, period, length
+		걸치다	extend across, cover, cross
+54	hollow	속이 빈	empty, vacant, void unfilled
+55	appreciable	주목할 만한	significant, noticeable, considerable
+56	shield	보호하다	protect, defend, safeguard
+57	spearhead	앞장서다	lead, lead the way, head
+58	methodically	체계적으로	systematically
+59	manage to	간신히 ~하다	be able to

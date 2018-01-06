@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	simultaneous	동시의	concurrent, happening at the same time, synchronous
+2	vast	광대한, 거대한	extensive, immense, great, huge, enormous
+3	reluctant	꺼리는	unwilling, disinclined, loath
+4	conjecture	추측	speculation, guess, supposition
+5	embed	박아넣다	fix, insert, implant, root
+6	vow	서약,맹세	pledge, promise, oath
+7	counter	반박하다	oppose, act against, refute
+8	apparent	분명한	clear, evident, obvious
+		외관상의	seeming, exterior, superficial
+9	bombard	폭격하다, 공격하다	strike, assail, attack
+10	reveal	밝히다, 드러내다	make know, show, unveil, uncover, expose
+11	sturdy	튼튼한	well-built, strong, robust, stalwart
+12	traditionally	통상적으로, 관습적으로	typically
+13	correspondingly	그에 상응하여	similarly, likewise
+14	trigger	일으키다	cause, generate, initiate, start, stimulate, activate
+15	vigorous	강건한; 활기찬	strong and healthy, strong; energetic
+		(작용·효력 등이) 강력한	forceful
+16	spontaneous	자발적인	voluntary, unprompted
+		무의식적인, 저절로 움직이는	automatic, unplanned, involuntary
+17	miniature	소형의	small, tiny, diminutive
+18	commission	의뢰하다	order, hire
+19	remarkable	놀라운, 주목할만한	extraordinary, incredible, notable, significant
+20	effort	노력	attempt, endeavor, exertion
+21	manifestation	징후	indication, sign, symptom, evidence
+22	prior	이전의	previous, former, earlier
+23	cast about	찾아다니다	seek, search, hunt
+24	rigorous	엄격한	strict, severe, demanding, precise
+		(기후등이) 혹독한	harsh
+25	compulsory	의무적인, 강제적인	obligatory, forced, required, necessary
+26	subsidiary	부수적인	less important, auxiliary, subordinate
+27	status	지위, 위신	standing, prestige, importance
+28	emphasize	강조하다	stress, highlight, underline
+29	largely	대부분	generally, mostly, mainly
+30	experimental	시험적인	trial, tentative
+31	drain	물을 빼내다	withdraw liquid gradually, remove water
+32	denote	나타내다, 표시하다	indicate, signify, represent
+33	repudiate	거부하다	reject, disclaim
+34	contradictory	모순되는	inconsistent, paradoxical, conflicting
+35	propagate	번식하다, 증식시키다	multiply, reproduce
+36	ensure	보장하다	guarantee, assure, warrant
+37	pore	작은 구멍	hole
+		자세히 보다, 응시하다	stare, gaze
+38	alternate	번갈아 일어나다	take turns, rotate, interchange
+39	devastating	파괴적인	destructive, ruinous
+40	mingle with	~와 어울리다	associate with, mix with, consort with
+41	continued	계속적인	ongoing, constant, incessant, ceaseless
+42	attempt	시도하다	try, seek, endeavor
+43	subterfuge	속임수	trick, deception
+44	convert	바꾸다	change, transform
+45	contention	논쟁	debate, argument, disagreement
+46	migrate	이주하다	move around, travel
+47	succession	연속	sequence, series
+48	tentativeness	망설임	hesitation, indecision
+49	fragmentary	단편적인	incomplete, fractional, partial
+50	legendary	유명한, 전설적인	famous
+		전설상의	mythical
+51	setback	패배	defeat, reverse
+52	fine-tune	미세하게 조정하다	adjust slightly
+53	enthusiastic	열광적인	eager, ardent, zealous
+54	loose	느슨한	not strict, relaxed, slack
+55	portrait	초상화	picture
+56	terminology	전문용어	vocabulary, jargon, language

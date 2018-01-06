@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	initiative	진취성	enterprise, ambition, drive
+2	provided that	만약 ~이라면	if, once, on the condition that, supposing
+3	phenomenal	경이적인	extraordinary, remarkable
+4	likewise	마찬가지로, 똑같이	similarly, in the same way
+		또한	also, as well
+5	tangible	유형의, 실재하는	material, physical, concrete, substantial
+6	absurd	터무니 없는	ridiculous, preposterous, ludicrous
+7	inclement	(날씨가) 혹독한	unfavorable, harsh, severe
+8	overly	지나치게	excessively, inordinately, unduly
+9	consume	소비하다	expend, use up, completely use, exhaust
+		소멸시키다	destroy, devastate, demolish
+		먹다	eat, devour
+10	overall	전반적인	general, total, comprehensive
+11	promote	촉진하다	encourage, advance, further, forward
+12	proliferation	급증	increase, growth, multiplication
+13	copious	풍부한	plentiful, abundant, ample, bountiful
+14	negligible	사소한	insignificant, slight, minor, trival
+15	notably	특히	particularly, especially, in particular
+16	inhibit	금지하다	hinder, restrict, limit, restrain, ban, prohibit, forbid
+17	worshiper	예배자	people participating in a religious service
+18	pool	모으다	combine, put together
+		기업, 연합	combination, group
+19	at the urging of	~의 권고로	at the recommendation of
+20	ornamental	장식용의	decorative, beautifying, embellishing
+21	regime	정권, 체제	government, administration, authorities
+22	acclaim	격찬하다	praise, compliment, applaud
+23	comprehensible	이해할 수 있는	understandable, apprehensible, knowable
+24	disparity	차이, 불균형	inequality, imbalance, disproportion
+25	bold	용감한	daring, brave, courageous
+26	noteworthy	주목할 만한	important, noteable, significant
+27	spectacular	장관인, 눈부신	magnificent, splendid, impressive
+28	extracted from	~에서 뽑아낸	taken out of, drawn out of
+29	tantalize	애타게 하다	tempt
+30	allied	관련된	related, linked, connected
+31	authoritative	권위 있는, 믿을 만한	official, authorized
+32	moral	교훈	lesson, message, teaching
+33	compatible	일치하는, 양립할 수 있는	consistent, congruous, consonant
+34	buildup	축적	accumulation
+35	stress	강조하다	emphasize, highlight, underline
+		중점, 강조	emphasis, accent
+36	respective	각각의, 개별적인	particular, individual
+37	peculiarity	(기이한) 특징, 특성	feature, characteristic, quality
+38	rely upon	~에 의존하다	depend upon, resort to
+39	rapid	빠른	fast, quick, speedy, swift
+40	saturate	흠뻑 적시다	soak, drench, wet thoroughly
+41	constituion	구성, 구조	form, structure
+42	efface	지우다, 없애다	wipe out, erase, expunge
+43	manageable	관리하기 쉬운	controllable, affordable, easy to handle
+44	approach	접근하다	come close, move toward, come toward, near, reach
+		접근법	method, way
+45	routinely	일상적으로	commonly, regularly, habitually
+46	adapt	적응하다	adjust, acclimate, conform
+47	implication	결과	consequence, result
+48	unambiguous	분명한	clear, distinct, definite
+49	rigor	엄격함	harshness, strictness, rigidness
+		고초, 어려움	hardship, adversity
+50	contentious	논쟁을 불러일으키는	disputed, controversial, argumentative
+51	competent	유능한	adept, skilled, capable
+52	incredible	믿기 힘든	unbelievable, inconceivable, unimaginable
+53	string	일련	series, chain
+54	decompose	부패하다	decay, rot
+55	lateral	측면의	side

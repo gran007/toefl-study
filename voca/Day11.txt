@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	plausible	그럴듯한	possible, believable, likely, probable
+2	transform	변형시키다, 바꾸다	convert, change, alter
+3	counterpart	(쌍을 이루는) 한쪽; 동등한 것	complement; equivalent
+4	nevertheless	그럼에도 불구하고	in spite of, however, still, yet, nonetheless
+5	pronounced	현저한	notable, striking, marked, significant, noticeable, distinct, strong
+6	celebrated	유명한	famous, renowned, well-known
+7	exceedingly	대단히	highly, extremely, excessively, hugely
+8	chancy	위험한	risky, perilous, dangerous
+9	vertical	수직의	upright, up-and-down, erect
+10	persist	지속되다	continue, last, endure, remain
+11	magnitude	규모, 정도	extent, size, degree, measure, amount
+12	discern	파악하다, 알아내다	identify, detect, distinguish
+13	generate	만들어 내다	produce, create
+14	eccentric	별난, 특이한	unusual, bizarre, peculiar, odd
+15	alternative	대안이 되는; 다른	substitutive; different
+		대안	substitute, choice, option
+16	strategy	전략, 방법	plan, method, scheme
+17	refine	개선하다	improve, perfect
+18	precious	귀중한	valuable, dear, priceless
+19	subtle	미묘한, 감지하기 어려운	hard to recognize, hardly perceived, slight
+20	conducive to	~에 도움이 되는	favorable to, helpful for, beneficial to
+21	preoccupied with	~에 몰두한	concentrated on, absorbed in, immersed in
+22	swift	재빠른	quick, speedy, fleet
+23	menace	위협하다	threaten, intimidate, frighten
+24	akin to	~과 유사한	similar to, like
+25	expend	(시간·에너지 등을) 쓰다	use, use up, spend, consume
+26	belittle	경시하다	disregard, underestimate
+27	commend	칭찬하다	admire, praise, compliment
+28	sue	고소하다	take a strong legal action against, charge
+29	innovation	혁신, 새로 도입한 것	new development, novelty, new idea
+30	fragmentation	붕괴, 분열	destruction, disintegration, disruption
+31	mainly	주로	principally, generally, primarily, chiefly
+32	sufficient	충분한	enough, adequate, ample
+33	abnormally	이례적으로, 이상하게	unusually, oddly, exceptionally, atypically
+34	barrier	장벽, 장애물	bar, obstacle, obstruction
+35	gigantic	거대한	huge, immense, colossal
+36	reproduce	복제하다, 모사하다	copy, duplicate, imitate
+		번식하다	breed, multiply, propagate
+37	allow	허락하다	enable, permit, let
+38	penetrate	꿰뚫다	pierce, go through, enter
+39	device	장치, 기구	mechanism, apparatus, appliance
+40	divergent	(의견 등이) 다른, 갈라지는	varying, different, dissimilar
+41	flaw	결점	defect, fault, blemish, shortcoming
+42	buffer	(충격을) 완화하다, 보호하다	protect, cushion
+43	refute	논박하다	disprove, rebut, prove false
+44	domestic	가정의	household, home, family
+45	on the spur of the moment	충동적으로	without planning, on impulse
+46	temperate	(기후 등이) 온화한	mederate, mild, clement
+47	consistent with	~과 일치하는	in agreement with, congruent with
+48	splendor	장려함, 화려함	magnificence, grandeur, majesty
+49	prosper	번창하다, 성공하다	succeed, flourish, thrive
+50	brew	일어나려고 하다	develop, loom, be on the way
+51	persevere	인내하며 계속하다	continue, carry on, persist
+52	bias	편견	prejudice
+53	administer	관리하다	manage, supervise, conduct
+		(약 등을) 주다, 투여하다	give, provide
+54	groundless	근거 없는	unfounded, baseless
+55	arouse	자극하다	stimulate, provoke, incite
+56	occupy	(주의·마음을) 끌다	engross, engage, absorb
+57	virtual	거의 ~과 다름없는, 사실상의	almost complete
+58	unexplored	다루어지지 않은, 논의되지 않은	uncovered
+59	tuned to	~과 일치된	in agreement with

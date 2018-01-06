@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	inevitable	불가피한	unavoidable, certain, inescapable
+2	consequent	결과로서 일어나는	resultant, resulting, eventual, ensuing
+3	decimation	대량파괴, 대량 살해	destruction, devastation
+4	evoke	불러일으키다	arouse, cause, draw, produce, induce
+5	vulnerable	취약한	easily damaged, susceptible, weak, open to attack
+6	elaborate	정교한; 복잡한	detailed; more complex, complicated
+		자세히 설명하다	make detailed
+7	enigmatic	불가사의한, 이해할 수 없는	mysterious, puzzling
+8	coincide with	일치하다	correspond to, accord with
+9	seemingly	외견상으로, 겉보기에는	apparently, ostensibly
+10	wrought	만들어진	created, formed, manufactured
+11	obstacle	장애물	barrier, hindrance, impediment, obstruction
+12	lucrative	수익성이 좋은, 유리한	profitable, gainful, advantageous
+13	extensive	광범위한, 넓은	widespread, large, wide, broad, far-reaching
+14	dampen	적시다	moisten, wet, soak, saturate
+15	opaque	불분명한	unclear, obscure
+		(유리·액체 등이) 불투명한	impenetrable
+16	endorse	지지하다	support, subscribe, back, advocate
+		서명(배서)하다	sign
+17	advent	출현, 도래	arrival, coming, introduction, appearance
+18	severely	격렬하게, 심하게	intensely, seriously, sharply
+19	immutable	불변의	unchangeable, invariable, unalterable
+20	yardstick	기준, 척도	measure, criterion, benchmark, standard
+21	preserve	보호하다, 보존하다	protect, save, retain, maintain, conserve
+22	conviction	(강한) 신념	strong belief, strong opinion, faith
+23	hallmark	특징	feature, distinguishing trait, sure signal
+24	timid	소심한, 겁 많은	shy, fearful, cowardly
+25	robust	튼튼한, 강한	strong, vigorous, healthy, stalwart
+26	discard	버리다	throw away, abandon, reject, dispose of, cast aside
+27	complicated	복잡한	complex, intricate, elaborate
+28	apart from	~을 제외하고	besides, except for, excluding
+29	graduate to	(더 높은 단계로) 나아가다, 승진하다	progress to, advance to, proceed to
+30	demonstrate	나타내다, 보여주다	indicate, show, manifest
+31	deluxe	호화로운	lavish, luxurious, opulent, rich
+32	dispute	논쟁하다	argue, contend
+		논쟁	argument, disagreement, debate
+33	convention	관례, 관습	usually practiced custom, tradition, rule
+34	rival	경쟁하는	competing, competitive, conflicting
+		경쟁자	competitor, antagonist, opponent
+		~와 경쟁하다	compete with, match
+35	modulate	조절하다, 조정하다	adjust, regulate, tune
+36	universal	전세계적인, 보편적인	used everywhere, general
+37	equivalent	동등한, 상응하는	equal, comparable, even, commensurate
+38	sparsely	드문드문, 밀도가 낮게	thinly, widely scattered
+39	exceed	넘다, 초과하다	go beyond, surpass, have a greater number than
+40	linger	남다	remain, stay
+41	innovative	독창적인	original, inventive, creative, ingenious
+42	antiquity	고대	ancient times, distant past
+43	impending	임박한	approaching, imminent
+44	doctrine	교리, 원칙	tenet, principle, dogma
+45	contribute	기부하다; 공헌하다	donate, endow, pitch in with; conduce
+46	cease	멈추다, 끝나다	stop, halt, end, terminate
+47	prior to	~보다 전에	before, previous to, ahead of
+48	groom	(깔끔하게) 다듬다	clean, tidy
+49	diversity	다양성; 차이	variety; difference
+50	correlate	(서로) 연관시키다	match, connect, link
+51	elite	최상류 층	upper class, upper crust, aristocracy, gentry
+52	stratify	층을 이루다	layer
+53	lessen	줄이다	reduce, abate, diminish
+54	upset	불안하게 하다	disturb, agitate, unsettle, worry
+55	accrete	하나로 합쳐지다	come together, accumulate
+56	uninterrupted	연속적인, 끊임없는	steady, ceaseless, incessant

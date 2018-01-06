@@ -1,0 +1,64 @@
+순번	단어	뜻	동의어
+1	duration	(지속되는) 기간	span, length, term
+2	massive	대규모의, 거대한	huge, enormous, very large, tremendous, colossal
+3	feasible	실행 가능한	practicable, viable, possible, achievable, most likely
+4	vibrant	활기 넘치는	active, vivacious, energetic
+		(색 등이) 선명한	vivid, bright, brilliant
+5	accumulation	축적	build up, collection, stock
+6	link	관계, 유대	connection, bond, tie
+		관련짓다	connect, relate, associate
+7	informally	비공식적으로	commonly, casually
+8	sovereign	군주	master, monarch, ruler
+9	key	중요한	important, central, essential
+		(악곡의) 조	tone
+10	eventually	결국	in the end, finally, ultimately, later, in (due) time
+11	persistent	지속되는	continuous, enduring, long-lasting, constant
+12	corroborate	확증하다	confirm, verify, substantiate
+13	inaugurate	개시하다, 시작하다	introduce, initiate, begin, commence
+14	furter	추가적인	additional, extra, supplementary
+15	concentrate on	~에 집중하다	focus on, pay attention to
+16	moreover	게다가	additionally, in addition, as well, besides
+17	execute	수행하다	perform, carry out, fulfill, implement
+		(미술품 등을) 제작하다	produce
+18	urbane	세련된	cultivated, sophisticated, polished, refined
+19	boast	자랑하다	show off, brag, swagger, pride oneself on
+		(자랑거리로서) 가지고 있다	proudly possess
+20	envision	마음속에 그리다, 상상하다	imagine, conceive, visualize
+21	intermediate	중간의	in-between, between extremes, median
+22	frightful	무서운	alarming, fearsome
+23	irrevocable	돌이킬 수 없는	permanent, irreversible, unchangeable
+24	disintegration	분해, 붕괴	breaking apart, collapse
+25	burgeoning	급증하는	rapidly expanding, growing, escalating
+26	terrestrial	속세의 	earthly, worldly
+27	adorn	꾸미다	decorate, beautify, ornament
+28	revolution	변혁, 개혁	fundamental change, innovation
+29	randomness	무작위성	lack of pattern
+30	superficial	표면적인	external, not deep, exterior
+31	diversion	주의 전환물	distraction
+32	originate from	~에서 비롯되다	come from, derive from, stem from
+33	intimate	친밀한	close, familiar
+34	blossom	번영하다	flourish, bloom, thrive
+35	groundwork	토대, 기초	foundation, basis, footing
+36	trivial	사소한	small, frivolous, unimportant, insiginificant
+37	posterity	후대	future generations, next generations
+38	aggravate	악화시키다	make worse, worsen, exacerbate
+39	obtainable	얻을 수 있는	available, accessible, attainable
+40	extent	범위	range, scope, stretch
+41	ingenious	기발한, 독창적인	inventive, creative, innovative, (very) clever
+42	burst	터지다	break open, break out
+43	outlying	외진, 중심에서 떨어진	far from the center, remote, distant
+44	revolve around	~을 중심으로 돌다	focus on, center on
+45	meticulously	꼼꼼히	carefully, precisely
+46	utilitarian	실용적인	practical, pragmatic, functional
+47	constitute	구성하다	make up, comprise, compose
+48	reciprocal	상호 간의	mutual
+49	tendency	경향	inclination, trend, proneness
+50	artifact	인공 유물	object
+51	expediate	신속히 처리하다, 촉진시키다	accelerate, speed up, urge, rush
+52	scenario	(사건의) 시나리오	situation, sequence of events
+53	define	분명히 하다	identify
+54	propulsion	추진, 추진력	moving forward, thrust, impetus
+55	resolute	확고한	firm, determined, steadfast, unwavering
+56	phase	시기, 단계	period, stage, step
+57	fairly	꽤	reasonably, moderately, pretty
+		공정하게	impartially

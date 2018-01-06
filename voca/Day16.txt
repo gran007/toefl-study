@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	subsequently	그 후에	later, afterward
+2	explicit	분명한	clear, specific, obvious, unambiguous, definite
+3	prevailing	(의견 등이) 지배적인	dominant, widespread, current, existing
+4	rudimentary	기본적인, 기초의	basic, elementary, fundamental
+		미발달의	primitive, undeveloped
+5	allude to	~을 넌지시 언급하다	suggest, refer to, imply, indicate
+6	assertive	자기주장이 강한, 독단적인	forceful, dogmatic
+7	fuse	녹다, 녹이다	melt, dissolve
+		융합하다	combine, merge
+8	transitory	일시적인	short-lived, brief, ephemeral, fleeting
+9	inviolable	(법 등이) 어길 수 없는; 신성한	without exception, allowing to no exception; sacred
+10	supersede	대신하다	replace, displace, supplant, substitute
+11	abundant	풍부한	plentiful, bountiful, ample, numerous
+12	significant	상당한; 중요한	considerable, substantial, serious; important, essential
+13	elaboration	공들여 다듬기; 이론의 전개	development, improvement
+14	pristine	자연 그대로의, 오염되지 않은	unspoiled, pure, untouched
+15	steadily	끊임없이	consistently, continuously, constantly, at an unvarying rate
+16	hence	따라서, 그러므로	therefore, consequently, thus
+17	fabricate	만들어 내다	make, produce, build
+18	meet	(문제·위기에) 대처하다	deal with, handle
+19	devour	게걸스럽게 먹다	eat, consume, gulp, gobble
+20	amiss	잘못된	wrong, erroneous, faulty
+21	figure out	알아내다	determine, calculate, work out
+22	augment	증가시키다	supplement
+23	trespass	불법 침입하다	invade, encroach, infringe
+24	deduce	추론하다	conclude, infer, derive
+25	quantify	양을 재다, 측정하다	measure
+26	aggregation	집단	group, body, assemblage
+27	lax	태만한	careless, neglectful, negligent
+28	pace	속도	speed, rate, tempo
+29	inspect	검사하다	examine, scan, check
+30	keen	예리한	sharp, acute
+31	abandon	버리다, 포기하다	desert, give up, forsake, relinquish
+32	prowess	뛰어난 솜씨	ability, competence, expertise
+33	anyone can see	누가 봐도 알 수 있듯이	it is clear, it is apparent
+34	coarse	거친	rough, crude
+35	impervious	통과할 수 없는	impermeable, resistant, impenetrable
+36	moderate	누그러지다	lessen, diminish
+		온건한, 온화한	gentle, temperate, mild
+37	stagnant	활발하지 않은	inactive, sluggish
+38	drive	몰아가다	propel, force, push, impel, compel
+		추진력, 진취성	ambition
+		(조직적인) 운동	campaign, effort
+39	anxiety	걱정, 불안	worry, angst, uneasiness
+40	allegedly	전해지는 바에 의하면	supposedly, reportedly
+41	utilize	이용하다	employ, use, make use of
+42	differential	차별적인	uneven, discriminatory
+43	maintain	유지하다	preserve, continue, sustain, keep
+		주장하다	claim, assert, contend
+44	jointly	함께, 공동으로	together, in conjunction with, as one
+45	catastrophic	비극적인, 파멸의	disastrous, harmful, tragic, calamitous
+46	aridity	건조함	dryness, waterlessness
+47	paradoxically	역설적으로	contradictorily, surprisingly
+48	archetypal	전형적인	ideal, classic, exemplary
+49	purposely	고의로	intentionally, deliberately, knowingly
+50	collision	충돌	crash, smash
+51	implant	심다, 끼워 넣다	insert, embed
+52	standpoint	관점, 견해	perspective, point of view
+53	cue	신호	signal, sign
+54	trappings	장식, 장신구	decoration, ornament, adornment
+55	spawn	야기하다	give rise to, create, produce
+56	outbreak	급격한 증가, (질병 등의) 창궐	sudden, increase, upsurge

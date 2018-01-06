@@ -1,0 +1,66 @@
+순번	단어	뜻	동의어
+1	considerable	상당한	substantial, a large amount of, large
+		중요한	meaningful, significant
+2	dominate	지배하다	control, govern, rule
+		압도적으로 우세하다	be widespread in
+3	ratio	비율	proportion, rate, percentage
+4	duplicate	복제하다	copy, reproduce, imitate
+		되풀이하다	repeat
+5	barely	거의 ~않게	hardly, scarcely, almost not
+		간신히	just, only just
+6	strew	흩뿌리다	scatter, sprinkle, disperse
+7	legitimately	합법적으로, 정당하게	properly, lawfully, legally
+8	encapsulate	요약하다	summarize, sumup, condense
+9	relatively	비교적으로	comparatively, by comparison
+10	hazard	위험	risk, danger, peril, jeopardy
+11	paramount	최고의, 중요한	supreme, prime, chief
+12	unwieldy	(크기·무게 때문에) 다루기 힘든	difficult to manage, awkward
+13	subsequent	그 다음의	succeeding, following, later, following in time
+14	striking	현저한	noticeable. remarkable, attention-getting
+15	extended	장기간에 걸친	long-lasting, prolonged
+16	ephemeral	단명하는; 덧없는	short-lived, living for a short time; temporary
+17	rigid	엄격한	strict, exact, severe, rigorous
+		굳은, 경직된	stiff, hard, firm
+18	chief	주요한	major, main, primary, principal
+19	severity	심함	seriousness
+20	typical of	~을 대표하는	characteristic of, representative of
+21	enable	가능하게 하다	allow, permit, facilitate
+22	empirical	실험상의, 실험에 의한	based on observation, experimental
+23	controversy	논쟁	dispute, debate, disagreement, contention
+24	accomplish	성취하다	achieve, execute, work out, put through
+25	set	고정된	fixed, settled
+		놓다	situate, place, put
+26	lag	지연	delay
+27	exude	(액체·냄새 등을) 발산하다	give off, release, emit
+28	interplay	상호 작용	interaction, reciprocity
+29	precede	~에 앞서다	come before, antecede, forerun
+30	manipulation	조작	deliberate alteration
+31	dry	건조한	arid, rainless, parched
+32	assist with	~을 돕다	help with, aid, support
+33	acute	극심한	severe, intense, extreme
+34	article	물품	object, item, thing
+35	scrutiny	정밀 검사	close observation, examination, inspection
+36	recompense	보상	repayment, compensation
+37	reflect	나타내다	show, indicate, display, demonstrate
+		숙고하다	meditate, think, consider, ponder
+38	immeasurably	대단히	greatly, extremely
+39	rudiments	기초, 기본	basics, elements, fundamentals
+40	mortality	사망	death
+41	awkward	서투른	clumsy, unskillful
+42	constrain	강요하다	oblige, bind, force, pressure
+		억제하다	inhibit, restrain, restrict
+43	turmoil	소란, 동요	unrest, agitation, stir
+44	property	특성	characteristic, character, quality
+		재산	estate, possession, havings
+45	fuel	연료를 공급하다; 자극하다	give energy to; encourage
+46	majestic	위엄 있는, 웅대한	magnificent, grand, august
+47	preeminent	뛰어난	outstanding, distinguished, foremost
+48	crude	가공하지 않은	rough, primitive, raw, unrefined
+49	variety	다양성	diversity, multiplicity
+		종류	type, species, sort, kind
+50	typically	보통	usually, normally, ordinarily
+51	supplementary	추가의	additional, extra
+52	reduce	감소시키다	decrease, diminish, cut
+53	subject	피실험자	participant
+		(싫은 일 등을) 겪게하다	expose
+54	flee	도망치다, 벗어나다	run away from, escape, abscond

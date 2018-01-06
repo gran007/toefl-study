@@ -1,0 +1,66 @@
+순번	단어	뜻	동의어
+1	exploit	(부당하게) 이용하다	utilize, use, make use of, take advantage of
+2	account for	(이유등을) 설명하다	explain, justify, give a reason for
+		(부분,비율을) 차지하다	make up, comprise, constitute
+		원인이되다	cause
+3	particular	특정한; 특별한	specific; special
+4	prominent	눈에띄는	noticeable, conspicuous, outstanding, remarkable
+		중요한	important, leading, notable
+5	replenish	보충하다	refill, restore, renew
+6	indigenous	토착의	native, aboriginal
+7	pinpoint	(위치등을) 정확히 찾아내다	locate exactly, clearly identify
+		정확한	precise, exact, accurate
+8	annihilate	전멸시키다	destroy, completely remove, exterminate
+9	conversely	반대로	on the other hand, contrarily
+10	investigate	조사하다	examine, inquire into, look into
+11	assure	확신시키다; 보장하다	convince, persuade, satisfy; guarantee
+12	entire	전체의, 전부의	whole, total, complete
+13	compensate for	~을 보상하다	make up for, atone for, make amends for
+		상쇄하다	balance, offset
+14	postulate	"(자명한 일로)가정하다, 주장하다"	hypothesize, suppose; claim, propose
+15	magnify	확대하다	enlarge, increase, amplify, intensify
+16	afford	주다, 제공하다	give, offer, provide, grant
+17	conclusive	결정적인, 확실한	definitive, final, enough to settle the issue, clear
+18	unshophisticated	단순한, 복잡하지 않은	simple, uncomplicated, not complex
+19	justified	정당한	right, legitimate, just, reasonable
+20	deliberate	의도적인, 계획적인	intentional, designed, planned
+		신중한	careful, cautious, thoughtful
+21	depend on	~에 의존하다, 의지하다	rely on, count on
+22	substantiate	입증하다	confirm, prove, authenticate, verify
+23	successively	잇따라서	one after another, sequentially
+24	pervasive	퍼지는, 만연하는	widespread, prevalent
+25	strenuous	격렬한, 힘든	intense, arduous, laborious
+26	sleek	매끄러운	smooth, silky
+27	invoke	빌다 기원하다	call upon, pray to, conjure
+28	impressive	인상적인, 대단한	striking, remarkable
+29	conjunction	결합	combination, union
+30	astoundingly	몹시 놀랍게도	incredibly, surprisingly, shockingly, astonishingly
+31	aftermath	여파, 결과	result, outcome, consequence, aftereffect
+32	promptly	신속하게, 즉시	quickly, instantly, straightaway
+33	subdue	정복하다	defeat, conquer, vanquish
+34	extant	현존하는	surviving, in existence, existing, living, remaining
+35	sedentary	주로 앉아 있는; 정착성의	stationary; settled
+36	eliminate	없애다, 제거하다	get rid of, remove, discard
+37	perfect	개선하다, 완벽하게 하다	refine, improve, develop
+38	genuine	진짜의	true, real, authentic
+39	dominant	우세한, 주요한	prevailing, prominent, supreme, chief, ruling
+40	unrivaled	비할데 없는	unequaled, unparalleled, matchless, peerless
+41	paradox	모순된 말	contradiction, absurdity
+42	neglect	무시하다	ignore, disregard
+		하지않다, 잊다	fail, forget
+43	recall	상기하다, 생각해내다	remember, recollect
+44	ascend	올라가다	rise, climb, mount, go up
+45	solid	확고한, 견고한	substantial, fixed, sturdy, robust
+46	contour	윤곽, 외형	outline
+47	inhabit	거주하다	live in, occupy, dwell in
+48	irrevocably	돌이킬 수 없게	permanently, irreversibly, irretrievably
+49	superficially	표면적으로	apparently, not deeply, externally, on the surface
+50	stunted	발달이 저해된, 성장을 멈춘	underdeveloped, hindered, hampered
+51	malleable	두들겨 펼수 있는	flexible
+52	mean	의미하다, 나타내다	signify, express, indicate
+		평균	average
+53	exclude	차단하다, 배제하다	keep out, leave out
+54	mature	성숙해지다	get older, grow up, age
+55	pillar	기둥	column, post
+56	encroachment	잠식, 침입	(gradual) invasion, intrusion
+57	no wonder	놀랄일이 아닌	unsurprisingly, unsurprising

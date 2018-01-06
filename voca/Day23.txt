@@ -1,0 +1,64 @@
+순번	단어	뜻	동의어
+1	configuration	배치; (배치) 형태	arrangement; shape, form, conformation
+2	induce	야기하다, 유발하다	bring about, cause, stimulate
+		설득하다	persuade, convince
+3	attain	(목적지·고령 등에) 도달하다	reach, arrive at
+		성취하다, 얻다	achieve, accomplish, realize
+4	erratic	불규칙한	irregular, unpredictable, uneven
+5	eventual	최종적인	ultimate, final
+6	mandate	명령, 지시	order, command, instruction
+7	prosperous	번영하는	flourishing, thriving, blooming
+		부유한	financially successful, wealthy, affluent
+8	requisite	필수품, 필요조건	necessity, requirement
+		필수의	essential, required, necessary
+9	partake of	함께 먹다, 함께 하다	consume, share
+10	pledge	약속, 맹세	promise, oath, vow, undertaking
+11	contend	주장하다	argue, assert, maintain
+12	confine	경계, 범위	boundary, limit
+		가두다, 제한하다	cramp, enclose, cage; limit
+13	dictate	(권위를 갖고) 지시하다	require, suggest, prescribe
+		좌우하다, 결정하다	determine
+14	durable	오래가는	long-lasting, lasting, enduring
+15	collectively	공동으로	together, all together, unitedly
+16	furnish	제공하다	provide, supply, offer
+17	alter	변경하다, 바꾸다	change, modify, metamorphose
+18	determine	결정하다	decide, resolve, conclude
+		측정하다	figure out, calculate
+19	haul	끌고 가다, 끌다	draw, pull, drag, heave
+20	approximation	근접성, 가까움	nearness, closeness, proximity
+21	found wanting	부족하다고 여겨지는	judged inadequate
+22	classic	전형적인, 대표적인	typical, exemplary, model
+23	grossly	지나치게	excessively
+24	vivid	선명한	bright, brilliant
+		생생한	graphic, lifelike
+25	artificial	인조의, 인공의	synthetic, man-made
+26	transplant	이동시키다	place in another context, remove, relocate
+27	camouflage	위장하다, 감추다	hide, disguise, conceal
+28	implement	도구, 가구	tool, instrument, appliance
+29	excavate	파내다, 발굴하다	dig out, dig up, unearth, disinter
+30	disgust	혐오감, 불쾌감	distate, nausea, aversion
+31	secluded	외딴	remote, hidden, isolated, solitary
+32	engulf	(불·파도 등이) 삼켜 버리다	swallow
+33	chronic	만성적인, 장기간에 걸친	persistent, constant, incessant
+34	magnificent	굉장히 멋진	superb, gorgeous, beautiful, splendid
+35	truism	뻔한 말, 자명한 이치	self-evident truth, commonplace, cliche
+36	accidental	우연한	unintentional, inadvertent, unintended
+37	invent	발명하다	devise, originate
+38	inherent in	~에 내재된	characteristic of
+39	expose	드러내다, 노출시키다	make visible, exhibit, uncover, subject
+40	perpetuate	영속시키다	continue, immortalize, eternize
+41	be inclined to	~하는 경향이 있다	tend to
+42	illusory	착각을 일으키는	misleading, deceptive, delusive
+43	heyday	전성기	high point, golden age, prime, florescence
+44	proficient	능숙한	skilled, skillful, expert, adept
+45	amply	풍부하게	generously, bountifully, lavishly
+46	desolate	황량한	deserted, bleak, dreary
+47	more subtle	더 포착하기 어려운	less noticeable
+48	disrupt	방해하다	interfere with, interrupt, upset
+49	forerunner	선조, 선구자	predecessor, antecedent
+50	immediate	즉각적인	instant, prompt on-the-spot
+		인접한	nearest, neighboring, adjacent
+51	wield	(권력·무기 등을) 휘두르다, 행사하다	exercise, use, handle
+52	crush	(희망·사기를) 꺾다	discourage, deflate
+53	manner	방법, 방식	way, fashion, mode
+54	uneasy	불안한, 불안정한	apprehensive, unstable, disturbed, ill at ease

@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	remnant	나머지, 잔존물	leftover, remains, trace, relic
+2	indispensable	필수적인	essential, necessary, requisite
+3	undermine	악화시키다	weaken, attenuate
+4	fashion	방식	way, manner, mode
+		만들다, 형성하다	shape, create, make
+5	prolong	연장하다	extend, lengthen, protract
+6	adequate	충분한	sufficient, satisfactory
+7	halt	정지시키다	stop, cease
+8	controversial	논쟁의 여지가 있는	debatable, disputed, producing disagreement
+9	match	맞먹다, 필적하다	equal, rival, parallel
+10	enduring	지속되는, 영속적인	lasting, surviving, everlasting, perpetual
+11	restrict	제한하다	limit, confine, restrain
+12	encompass	포함하다	include, contain, embrace
+13	consider	곰곰히 생각하다, 고려하다	contemplate, take into account
+14	integrate	통합하다	unite, unify, synthesize, interconnect, consolidate
+15	startling	놀라운	surprising, astonishing, alarming
+16	unaccounted for	설명되지 않은	not explained
+17	manifest	나타내다	indicate, reveal, demonstrate
+		명백한	obvious, clear, definite, evident
+18	fragile	깨지기 쉬운, 약한	easily broken, delicate, weak
+19	faithful	(사실 등에) 충실한, 정확한	accurate, exact, precise, veracious
+20	concede	인정하다	admit, accept as true, acknowledge
+		허락하다	grant
+21	threaten	위태롭게 하다	endanger, menace, imperil, jeopardize
+22	revolutionize	혁신을 일으키다	fundamentally change, completely change
+23	haphazard	무계획적인, 우연한	random, chance, casual
+24	mainstay	주요 의지물, 대들보	important part, anchor, buttress
+25	wholly	완전히	completely, entirely, fully, thoroughly
+26	edible	먹을 수 있는	eatable. fit to eat, safe to eat
+27	legible	알아볼 수 있는	recognizable, readable
+28	scrutinize	(세밀히) 조사하다	examine, inspect, investigate, probe
+29	in essence	본질적으로	essentially, fundamentally, basically, in substance
+30	beneficial	유익한	useful, helpful, advantageous, profitable
+31	distribute	분배하다	parcel out, spread, allot, apportion
+32	heir	상속인	inheritor, successor
+33	specifically	특별히	specially, especially, particularly
+34	costly	돈이 많이 드는	expensive, high-priced
+35	yield	산출하다	produce, generate, give
+		넘겨주다, 양도하다	cede, surrender, hand over
+36	channel	(관심·노력 등을) 돌리다, 쏟다	direct
+37	necessary	필요한, 필수의	required, requisite, essential, indispensable
+38	retrospect	회고하다, 추억하다	look back
+39	overview	개요	summary, outline, synopsis
+40	occasional	가끔의	infrequent, sporadic, intermittent
+41	respectively	각각	separately, individually, each
+42	entice	유혹하다	tempt, allure, seduce
+43	choose	선택하다	opt, select
+44	work out at	계산되다	be calculated at
+45	enlist	입대하다; (신병을) 모집하다	enroll, join, sign up; recruit
+46	diminish	줄이다	reduce, decrease, lessen, cut, abate
+47	norm	규범	rule, standard
+48	ostentatious	과시하는	showy
+49	desert	(사람·장소 등을) 버리다	abandon, forsake, leave
+50	dwelling	거주지	living quarters, habitation, residence, home
+51	homogenize	동질화하다	remove variation within, make uniform
+52	up	(가격 등을) 올리다, 증가시키다	increase, raise, augment, multiply
+53	displace	대체하다	supplant, replace
+		옮기다	move out of position
+54	numerous	매우 많은	very many, countless, innumerable
+55	discharge	방출하다	release, emit, excrete
+56	defend	방어하다, 지키다	guard
+57	compose	구성하다	make up

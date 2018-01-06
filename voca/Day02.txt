@@ -1,0 +1,64 @@
+순번	단어	뜻	동의어
+1	virtually	사실상; 거의	in effect, essentially; almost, nearly, almost totally
+2	unprecedented	전례없는; 새로운	unlike anything in the past, unique; novel, new
+3	grow accustomed to	~에 익숙해지다	become used to, become familiar with
+4	intrigue	흥미를 끌다	interest, fascinate, attract
+5	implausible	믿기 어려운	unlikely, unbelievable, improbable
+6	decline	쇠퇴, 쇠약	weakening, decay
+		줄다, 감소하다	decrease, lessen, fall
+		거절하다	refuse, reject
+7	contemporary	현대의	modern, present-day, current
+		동시대의	coexisting, concurrent
+8	allocate	할당하다; 배정하다	distribute, allot; designate, earmark
+9	drastically	극심하게	severely, strikingly, extremely
+10	heterogeneous	잡다한, 혼성의	varied, assorted, mixed
+11	conspicuous	뚜렷한	(very) noticeable, clearly visible, prominent, obvious
+12	prolific	다산의; 풍부한	fertile, fruitful, productive; abundant
+13	fluctuation	변동	change, variation, variance
+14	encourage	촉진하다	promote, prompt, motivate
+		격려하다	cheer up, hearten
+15	abrupt	갑작스러운	sudden, sharp, unexpected
+16	evaluate	평가하다	judge, assess, gauge, appraise
+17	comprehensive	종합적인	thorough, complete, exhaustive
+18	engrave	새기다	carve, incise, etch
+19	slight	하찮은; 경미한	minor, small, trivial; mild
+20	monotonous	단조로운; 지루한	unvaried; boring, tedious, dull
+21	regard	생각하다, 간주하다	consider, think of, see
+		관심	attention, notice
+22	obsession with	~에 대한 집착	fixation on, preoccupation with
+23	optimize	최대한 잘 활용하다	make the best use of
+24	supplant	대체하다	replace, substitute, displace, supersede
+25	colossal	거대한, 엄청난	enormous, monstrous, gigantic
+26	diffuse	퍼뜨리다	spread, distribute, scatter
+27	mechanics	방법	procedure
+28	susceptible to	~에 걸리기 쉬운, 영향받기 쉬운	likely to get, vulnerable to, prone to
+29	emanate	(향기·빛 등이) 나다	emerge, spring, originate
+30	conventionally	관례적으로	customarily, traditionally
+31	expansive	넓은, 광대한	large, broad, wide, extensive
+32	sporadically	이따금씩	occasionally, at intervals, infrequently
+33	comparative	상대적인	relative
+34	stamp out	근절하다	eliminate, eradicate, extirpate
+35	stagnation	침체	low growth, downturn
+36	innate	선천적인	inborn, natural, native
+37	obsolete	쓸모없게된; 쓰이지않는	out of date, outdated; unused, out of use
+38	specify	명시하다	state, define, stipulate
+39	endure	견디다	tolerate, survive, suffer, persevere
+		지속하다	last, continue, persist
+40	conceivable	생각할수 있는	imaginable, thinkable, possible
+41	sufficiently	충분히	adequately, ampli, satisfactorily
+42	entail	(필연적으로) 수반하다; 일으키다	involve, cause
+		필요로 하다	require, demand
+43	depict	묘사하다	picture, portray, represent
+44	integration	통합	union, unification
+45	stockpile	비축하다	store up, save, reserve
+46	capture	붙잡다	seize, catch, trap, grab
+47	landscape	풍경	scenery, scene, view
+48	elaborately	정교하게	with great detail
+49	autonomous	자율적인	independent, self-determining
+50	boom	갑자기 번창하다	flourish, thrive, prosper, rapidly expand
+51	supremacy	우위	dominance, predominance, ascendancy
+52	ravage	파괴하다	destroy, demolish, devastate, ruin
+53	authority	권위자, 대가	expert, master, specialist
+54	plug	메우다, 채우다	fill up, stuff, pack
+55	discrepancy	불일치	inconsistency, disparity, dissimilarity
+56	elucidate	(명료하게) 설명하다	clarify, explain, make clear

@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	flourish	번창하다	thrive, prosper, blossom, do well
+2	dissipate	(구름·안개 등을) 흩뜨리다, 흩어지다	disperse, scatter
+3	profound	엄청난	great, significant
+		깊은, 심오한	deep, fundamental
+		폭넓은	far-reaching
+4	intriguing	매우 흥미로운	interesting but not completely understood, fascinating
+5	considerably	상당히	significantly, appreciably, fairly
+6	ingenuity	창의력; 교묘함	creativeness, inventiveness; cleverness
+7	conquer	이기다	defeat, prevail, triumph
+8	fragment	조각, 부분	piece, flake, particle, part
+		산산이 부수다, 부서지다	break apart, shatter, divide
+9	spell	한동안	a certain period of time
+10	facet	측면	aspect, phase
+11	mundane	일상적인, 평범한	ordinary, banal, commonplace
+12	dense	밀집한, 빽빽한	crowded, thick, compact
+13	random	무작위의, 우연한	unplanned, unpredictable, chance
+14	mere	단지 ~에 불과한, 하찮은	nothing more than, insignificant
+15	persistence	지속	continuation, ceaselessness
+16	intrusive	개입하는, 참견하는	interfering, meddlesome
+17	culminate in	~에서 절정에 달하다	reach completion in, reach the highest point in
+18	stabilize	안정시키다, 고정시키다	hold in place, support
+19	prompt	유발하다; 자극하다	cause, bring about, induce; stimulate
+20	distinction	차이	difference, divergence, contrast
+21	constant	변함없는, 일정한	unchangeable, steady, stationary
+22	appreciation	이해	understanding, comprehension
+23	sophistication	(고도의) 지식	expertise
+24	pronouncement	선언, 발표	statement, declaration, proclamation
+25	flag	시들다, 줄다	lessen, weaken, fade, wither
+26	ambivalent	상반되는 감정을 가진	mixed, unsure, undecided
+27	term	칭하다	call, name, designate, denominate
+28	flawed	결함이 있는	incorrect, defective, imperfect
+29	reminisce	회상하다	recollect, remember, recall, look back
+30	destitute of	~이 없는	lacking, empty of, deficient in
+31	regrettably	유감스럽게도	unfortunately, lamentably, sadly
+32	principle	원리	basic method, original method
+33	contain	포함하다	include, comprise
+34	juncture	연결, 접합	connection, junction, link
+35	discount	무시하다	ignore, disregard
+36	or so	~정도	roughly
+37	dejected	낙담한	depressed, downhearted
+38	proposal	제안	idea, offer, proposition, suggestion
+39	for all	~에도 불구하고	in spite of, with all, despite
+40	uniquely	독특하게	exceptionally, distinctively
+41	criticize	비난하다	find fault with, blame, condemn, censure
+42	erode	침식시키다, 침식되다	wear down, wear away, wear out
+43	tension	긴장, 압박	strain, pressure
+44	ancient	고대의	early, old, prehistoric, antique
+45	inherently	본질적으로	essentially, intrinsically
+46	sporadic	때때로 일어나는	occasional, intermittent, irregular, infrequent
+47	apex	정점	crest, peak, acme, pinnacle
+48	though	그렇지만	however, nevertheless, yet, still
+		~이지만	although, while, albeit
+49	infer	추론하다	conclude, derive, reason, deduce
+50	core	핵심	central idea, center, heart
+51	mutation	돌연변이 과정, 변화, 변형	change, variation, alteration
+52	thrill	흥분, 전율	excitement, exhilaration, frisson
+53	mutilate	못쓰게 만들다	damage, injure, disable
+54	rigidly	엄격하게	strictly, rigorously, severely
+55	matter	물질	substance, material, stuff
+		사안	issue
+56	contradicting	서로 대립하는	opposing
+57	unwilling	마지못해 하는, 꺼리는	reluctant

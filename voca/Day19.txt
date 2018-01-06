@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	forage	(식량 등을) 찾아다니다	seek for food, search, hunt, rummage
+		사료, 먹이	feed, fodder, food
+2	erect	세우다, 건설하다	build, construct, raise, set up
+3	integral	필수적인	essential, crucial, indispensable
+		완전한, 빠진 것이 없는	complete
+4	precisely	정확하게	exactly, accurately, correctly, with precision
+5	handle	처리하다	process, manage, deal with
+6	objective	목적, 목표	purpose, aim, goal
+		편견 없는	unbiased, impartial
+7	deviate	벗어나다	depart, turn aside, diverge, stray
+8	vigor	활력, 힘	energy, strength, vitality
+9	decisive	결정적인, 명백한	significant, definitive, definite
+10	primordial	최초의	beginning, original, earliest
+11	cluster	(떼를 지어) 모이다, 모으다	gather, group, assemble
+12	revise	수정하다, 변경하다	change, modify, alter, edit, correct
+13	obscure	흐릿한, 불분명한	unclear, uncertain, hidden, dim, faint
+14	rebound	다시 일어서다; 회복되다	recover, rally, bounce back
+		회복	recovery, return
+15	thus	따라서	consequently, therefore, accordingly
+16	minutely	자세하게	in detail, meticulously
+17	tend	돌보다	take care of, look after, care for, foster
+18	impact	영향	influence, effect, repercussion
+19	luxuriant	무성한	rich, abundant, exuberant, opulent
+20	altogether	완전히	fully, completely, entirely, totally, wholly
+21	astounding	놀라운	amazing, astonishing, surprising
+22	propagation	보급, 전파	spread, dissemination
+23	encroach	침입하다	trespass, invade, intrude
+24	bizarre	이상한, 기괴한	strange, odd, erratic, exotic, irregular
+25	elevate	들어 올리다	raise, lift, heave, hoist
+26	superb	훌륭한	excellent, outstanding, magnificent
+27	accommodate	수용하다	lodge, make room for, hold
+		적응하다, 맞추다	adjust to, suit, adapt, fit
+28	infinite	무한한	limitless, unlimited, immeasurable, boundless
+29	glimpses into	~을 흘끗 봄	brief view into, quick look into
+30	mold	형성하다, 만들다	shape, form, fashion
+31	wary	경계하는	cautious, distrustful, watchful
+32	expansion	팽창, 확장	spread, growth
+33	autonomy	자치(권)	self-rule, independence
+34	complaint	불만, 항의	protest, grievance
+35	subordinate	종속적인	secondary, subject, dependent
+36	thrive	번성하다	do well, prosper, flourish
+37	by and large	대체로	for the most part, on the whole
+38	unique to	~ 특유의	existing only in, exclusive to
+39	annual	연간의	yearly
+40	frigid	몹시 추운	cold, freezing, frosty
+41	appreciate	인식하다	recognize, understand, perceive
+42	apparatus	기구, 장치	equipment, device
+43	engender	야기하다	cause, bring about, generate
+44	adverse	부정적인	negative, unfavorable, not favorable, harmful
+45	accomplished	숙련된	skilled, proficient
+46	conceal	숨기다, 감추다	hide, cover, obscure
+47	uniform	일정한, 한결같은	consistent, even, invariable
+48	complement	금상첨화격 요소, 보완물	supplement
+49	refrain from	~을 삼가다	avoid, abstain from, keep from
+50	column	기둥	pillar, post
+51	underscore	강조하다	emphasize, reinforce, underline, accentuate
+52	inspire	영감을 주다	motivate, fire the imagination of
+53	swell	팽창하다, 팽창시키다	increase, expand, enlarge
+54	deficient	부족한	not enough, insufficient, inadequate
+55	indiscriminately	무차별로, 가리지 않고	randomly
+56	to some extent	어느 정도까지	within limits
+57	hierarchical	계급제의	arranged in order of

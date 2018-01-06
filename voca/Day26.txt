@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	offset	상쇄하다	counterbalance, counteract, cancel out
+2	assume	(책임·임무를) 떠맡다	undertake, take on, adopt
+		생각하다	believe, think, suppose, presume
+3	periodically	정기적으로	regularly
+		간헐적으로, 때때로	at intervals, occasionally
+4	cite	언급하다	refer to, mention, allude to
+5	commonly	보통, 일반적으로	generally, often, normally, usually
+6	locate	(위치 등을) 찾아내다, 발견하다	find, detect, discover
+		(장소·위치에) 두다	position, situate, place
+7	impose	강요하다	force, pressure, enforce
+8	prerequisite	필요 조건	requirement, necessary condition, precondition
+9	immunity	면제	exemption, impunity
+10	proper	적절한	suitable, appropriate, apposite
+11	embark on	시작하다	start (on), begin, commence
+12	probe	조사하다, 찾다	investigate, search, examine, explore
+		탐구, 탐사	exploration, inquiry
+13	exhaust	다 써 버리다, 고갈시키다	use up, deplete, run out of
+		지치게 하다	tire, weary, fatigue
+14	exclusive	유일한	only, sole, single
+15	manipulate	다루다, 조종하다	handle, control, operate, maneuver
+		조작하다, 속이다	change, deliberately alter
+16	ongoing	계속 진행 중인	continued, constant, persistent
+17	primary	기본적인	fundamental, elementary, basic
+18	interval	(시간·공간의) 간격, 기간	space, distance; period
+19	spark	유발하다	bring about, trigger, provoke
+20	tenacity	완고함, 고집	stubbornness, determination, firmness
+21	distinctive	특유의, 특색 있는	characteristic, peculiar
+22	collaborative	공동의, 협력적인	cooperative, concerted, joint
+23	deeply ingrained	(습관 등이) 깊이 배어 든, 뿌리박힌	firmly established
+24	instantaneous	즉각적인	immediate, prompt, on-the-spot
+25	agitate	뒤흔들다, 휘젓다	create movement in, stir, beat
+26	in profile	옆모습으로	from side view
+27	especially	특히	particularly, notably, specially
+28	creative	창의적인	inventive, imaginative
+29	rim	가장자리	edge, border, verge, margin
+30	anxious	걱정하는	worried, concerned, apprehensive, uneasy
+		열망하는	eager, keen, longing
+31	require	요구하다, 필요로 하다	demand, call for, entail, need
+32	handy	편리한	convenient
+33	rare	드문	(very) unusual, infrequent, scarce, uncommon
+34	diligently	열심히, 애써서	earnestly, assiduously, carefully, industriously
+35	mutually exclusive	상호 배타적인	different from one another
+36	vacant	(집·땅 등이) 비어있는	empty, unoccupied, void
+37	represent	묘사하다, 나타내다	depict, portray, express
+38	conclude	결론을 내리다	decide, make a final judgement, determine
+39	enactment	(법률) 제정	establishment
+40	impede	방해하다	inhibit, hinder, obstruct
+41	humble	초라한, 겸손한	modest, unpretentious, unassuming
+42	premise	전제, 가정	assumption, presupposition
+43	jettison	버리다	release, discard, throw away, cast off
+44	segregate	분리하다, 격리하다	separate, seclude, dissociate, disunite
+45	innumerable	무수한	countless, numberless, numerous
+46	havoc	대파괴	destruction, ruin, devastation, demolition
+47	dwindle	줄어들다	decrease, diminish, lessen
+48	concept	개념	idea, notion
+49	sensational	굉장한, 놀라운	extraordinary, exciting
+50	convincing	설득력 있는	persuasive, compelling, credible, cogent
+51	insight	통찰력, 이해	understanding, perception, sense
+52	naively	솔직하게, 순진하게	plainly, candidly, ingenuously
+53	vague	모호한, 불분명한	unclear, uncertain, imprecise, obscure
+54	associated	관련된	connected, correlated, linked
+55	amplification	부연 설명	further explanation

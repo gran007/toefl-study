@@ -1,0 +1,63 @@
+순번	단어	뜻	동의어
+1	compelling	설득력 있는	convincing, persuasive, cogent
+2	ultimately	마침내, 결국	eventually, finally, in the end, lastly
+3	bulk	큰 규모, 대량	mass, large quantity, great quantity
+		대부분	majority, main part
+4	incompatible	양립할 수 없는	in conflict, discrepant, contradictory
+5	substantially	상당히	significantly, considerably
+		대체로	largely, mainly
+6	seek	찾다, 조사하다	look for, search for, pursue
+		시도하다, 노력하다	attempt, try, essay
+7	unanticipated	예상하지 못한	not expected, unforeseen
+8	merge	합치다, 융합하다	combine, blend, fuse
+9	encounter	마주치다, 부닥치다	meet (with), experience, confront, face
+10	residue	잔여물	remains, remnant, remainder
+11	circumstance	상황	condition, situation
+12	astonishing	놀라운, 눈부신	incredible, amazing, startling, astounding
+13	intermittently	간헐적으로	occasionally, periodically, from time to time
+14	application	응용, 이용	use, utilization, employment
+15	predominant	주된, 주요한	principal, main, primary, leading
+16	remote	멀리 떨어진	distant, secluded, removed
+17	inordinate	과도한	excessive, exorbitant, undue
+18	launch	시작하다	start, begin, initiate, commence
+19	trend	경향, 추세	tendency, inclination, direction
+20	embodiment	전형, 구체화된 것	concrete example, epitome
+21	colonize	(동·식물이) 서식하다	inhabit, populate
+		식민지화하다	conquer
+22	affect	영향을 미치다	influence, impact, act on
+23	speculation	추측	supposition, conjecture, surmise
+24	compound	(정도를) 더하다, 악화시키다	add to, intensify, worsen
+25	fascinating	매혹적인	extremely attractive, captivating, enthralling
+26	constellation	(유사한 것들의) 모임, 무리	collection, combination, group
+27	unconsolidated	굳지 않은	loose, incoherent
+28	outstanding	뛰어난	excellent, remarkable, prominent
+		미지불의, 처리되지 않은	unpaid, unsettled, owing
+29	outcome	결과	result, consequence, conclusion
+30	document	문서, 기록	record, report, paper
+31	intrinsically	본질적으로	fundamentally, essentially
+32	disputatious	논쟁을 좋아하는	contentious, argumentative, quarrelsome
+33	diverse	다양한; 다른	varied, various, manifold; dissimilar
+34	eerie	기묘한	odd, strange
+35	tenuous	빈약한	weak, insubstantial
+36	eradicate	근절하다	(completely) remove, root up, extirpate, eliminate
+37	prone to	~하기 쉬운	susceptible to, like to get
+38	lodge	박히다	embed, implant
+39	gather momentum	탄력이 붙다	make progress, gain impetus
+40	viable	생존 가능한	able to survive
+41	impediment	장애물	obstacle, obstruction, barrier
+42	arid	메마른	dry, barren, sterile, waterless
+43	credible	믿을 수 있는	believe, reliable, plausible
+44	vacate	떠나다, 비우다	abandon, evacuate, void
+45	cushion	보호하다, 충격을 완화하다	protect, buffer
+46	peculiar	특유의, 독특한	unique, distinct, particular
+		이상한	strange, unusual, odd
+47	attributable to	~에 기인하는	caused by, ascribable to
+48	enact	(법률 등을) 제정하다	make into law, establish, pass, adopt
+49	stratified	층으로 이루어진	layered
+50	with regard to	~에 관하여	in terms of, with respect to, concerning
+51	turbulent	격동하는	violent, agitated, tumultuous
+52	appraisal	평가	evaluation, assessment, estimation
+53	erroneous	잘못된	wrong, incorrect, mistaken, false
+54	proponent	지지자	supporter, advocate, adherent, partisan
+55	absolute	절대적인, 완전한	unqualified, complete, utter
+56	gratify	만족시키다, 기쁘게 하다	satisfy, please
