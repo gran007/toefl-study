@@ -84,6 +84,13 @@ html.theme-black .content {
     justify-content: center;
 }
 
+.second-cell-hide .Rtable-cell.second,
+.third-cell-first-col-hide .Rtable-cell.third .first,
+.third-cell-second-col-hide .Rtable-cell.third .second
+{
+	color:black;
+}
+
 .Rtable-cell.first {
     width:15%;
     text-align: center;

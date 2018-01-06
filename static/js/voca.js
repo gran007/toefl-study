@@ -35,6 +35,14 @@ function getFileList() {
     });
 }
 
+function handleClass(item, className) {
+	if(item.hasClass(className)) {
+		item.removeClass(className);
+	} else{
+		item.addClass(className);
+	}	
+}
+
 // list 선택시 이벤트
 function fileClick(e) {
     $(this).addClass('selected');
@@ -77,13 +85,13 @@ function fileClick(e) {
 						} else {
 							$.cookie(selId, { expires : 30 });
 							parentRow.addClass('on');
-						}
-						
-						
-						console.log(selId);
+						}						
 					});
 					
-					second.click(function(){					
+					second.click(function(){	
+						if(index == 0) {
+							handleClass(content, 'second-cell-hide');
+						}
 						var msg = new SpeechSynthesisUtterance(itemList[1]);
 						msg.lang = 'en-US';
 						window.speechSynthesis.speak(msg);
@@ -100,20 +108,28 @@ function fileClick(e) {
                 third.append(colRow);
 				var firstCol = $('<div></div>').addClass('first').html(itemList[3]);
 				firstCol.click(function() {
+					if(index == 0) {
+						handleClass(content, 'third-cell-first-col-hide');
+					} else {
 					var msg = new SpeechSynthesisUtterance();
 						msg.text = itemList[3];
 						msg.lang = 'en-US';						
-						window.speechSynthesis.speak(msg);
+						window.speechSynthesis.speak(msg);	
+					}					
 				});
 				var secondCol = $('<div></div>').addClass('second').html(itemList[2]);
 				secondCol.click(function() {
-					var msg = new SpeechSynthesisUtterance();
-						msg.text = itemList[2];
-						msg.lang = 'ko-KR';
-						window.speechSynthesis.speak(msg);
+					if(index == 0) {
+						handleClass(content, 'third-cell-second-col-hide');
+					} else {
+						var msg = new SpeechSynthesisUtterance();
+							msg.text = itemList[2];
+							msg.lang = 'ko-KR';
+							window.speechSynthesis.speak(msg);
+					}
 				});
                 colRow.append(firstCol);
-                colRow.append(secondCol);				
+                colRow.append(secondCol);
             });
             $('.navButton').click();
             //console.log(textList);
