@@ -88,45 +88,38 @@ function fileClick(e) {
 						}						
 					});
 					
-					second.click(function(){	
-						if(index == 0) {
-							handleClass(content, 'second-cell-hide');
-						}
-						var msg = new SpeechSynthesisUtterance(itemList[1]);
-						msg.lang = 'en-US';
-						window.speechSynthesis.speak(msg);
-					});
+					if(detectmob()) {	
+						second.click(function(){	
+							playSound(itemList[1]);
+						});	
+					} else {
+						longClick(second, function() {
+							playSound(itemList[1]);
+						});
+					}					
 					
 					row.append(first);
                     row.append(second);
                     row.append(third);
 					content.append(row);
                 }
-                /*if(itemList[1].length != 0) {
-                }*/
                 colRow  = $('<div></div>').addClass('col-row');
                 third.append(colRow);
 				var firstCol = $('<div></div>').addClass('first').html(itemList[3]);
-				firstCol.click(function() {
-					if(index == 0) {
-						handleClass(content, 'third-cell-first-col-hide');
-					} else {
-					var msg = new SpeechSynthesisUtterance();
-						msg.text = itemList[3];
-						msg.lang = 'en-US';						
-						window.speechSynthesis.speak(msg);	
-					}					
-				});
+				
+				if(detectmob()) {					
+					firstCol.click(function() {
+						playSound(itemList[3]);
+					});	
+				} else {
+					longClick(firstCol, function() {
+						playSound(itemList[3]);
+					});	
+				}				
+				
 				var secondCol = $('<div></div>').addClass('second').html(itemList[2]);
 				secondCol.click(function() {
-					if(index == 0) {
 						handleClass(content, 'third-cell-second-col-hide');
-					} else {
-						var msg = new SpeechSynthesisUtterance();
-							msg.text = itemList[2];
-							msg.lang = 'ko-KR';
-							window.speechSynthesis.speak(msg);
-					}
 				});
                 colRow.append(firstCol);
                 colRow.append(secondCol);
@@ -137,6 +130,40 @@ function fileClick(e) {
     });
 }
 
+function playSound(text) {
+	var msg = new SpeechSynthesisUtterance(text);
+	msg.lang = 'en-US';
+	window.speechSynthesis.speak(msg);
+}
+
+function longClick(item, func) {
+	var tmr = 0;
+	var second = 300;
+	$(item).mousedown(function () {
+	  tmr = setTimeout(function () {
+		  func();		
+	  }, second);
+	}).mouseup(function () {
+	  clearTimeout(tmr);
+	});
+}
+
 $(function() {
     init();
 });
+
+function detectmob() { 
+ if( navigator.userAgent.match(/Android/i)
+ || navigator.userAgent.match(/webOS/i)
+ || navigator.userAgent.match(/iPhone/i)
+ || navigator.userAgent.match(/iPad/i)
+ || navigator.userAgent.match(/iPod/i)
+ || navigator.userAgent.match(/BlackBerry/i)
+ || navigator.userAgent.match(/Windows Phone/i)
+ ){
+    return true;
+  }
+ else {
+    return false;
+  }
+}
