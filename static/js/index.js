@@ -34,7 +34,7 @@ function getFileList() {
         });
         $('.sidenav').append(ul);
         var lastSelectedFileName = $.cookie('lastSelectedFileName');
-        index = $.cookie('paragraphIndex');
+        index = parseInt($.cookie('paragraphIndex'));
         $.each($('.sidenav ul li'), function(index, item) {
             if($(item).html() === lastSelectedFileName) {
                 item.click();
@@ -69,7 +69,7 @@ function fileClick(e) {
     $(this).parent().parent().addClass('selected');
     $(this).parent().slideDown(slideDuration);
     $(this).addClass('selected');
-    $.cookie('lastSelectedFileName', $(this).html());
+    $.cookie('lastSelectedFileName', $(this).html(), { expires : 30 });
     var filePath = $(this).attr('filePath');
     $('.textArea').val('');
     $.ajax({
@@ -165,7 +165,7 @@ function setPrevPage() {
         $('.textArea').val('');
         setText();
     }
-    $.cookie('paragraphIndex', index);
+    $.cookie('paragraphIndex', index, { expires : 30 });
 }
 
 function setNextPage() {

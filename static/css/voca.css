@@ -46,20 +46,20 @@ html.theme-black .content {
 .Rtable {
     display: flex;
     flex-wrap: wrap;
-    margin: 0 0 3em 0;
+    /*margin: 0 0 3em 0;*/
     padding: 0;
     margin-top:40px;
 }
 
-.content {
+/*.content {
     margin-left:10px;
-}
+}*/
 
 .Rtable-cell {
     box-sizing: border-box;
     flex-grow: 1;
     width: 100%;
-    padding: 0.8em 1.2em;
+    /*padding: 0.8em 1.2em;*/
     overflow: hidden;
     list-style: none;
     border: solid 1px white;
@@ -67,18 +67,39 @@ html.theme-black .content {
     /*> h1, > h2, > h3, > h4, > h5, > h6 { margin: 0; }*/
 }
 
+.Rtable-cell.first,
+.Rtable-cell.second
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .Rtable-cell.first {
-    width:20%;
+    width:15%;
     text-align: center;
 }
 
 .Rtable-cell.second {
-    width:80%;
+    width:30%;
 }
 
-.Rtable-cell.third,
-.Rtable-cell.forth{
-    width:50%;
+.Rtable-cell.third {
+    width:55%;
+    padding:0;
+}
+
+.Rtable-cell.third .row {
+    display: flex;
+    padding: 19.2px 12.8px;
+    border-top: solid 1px white;
+}
+
+.Rtable-cell.third .row .first {
+    width:70%;
+}
+.Rtable-cell.third .row .second {
+    width:30%;
 }
 
 /* Table column sizing
