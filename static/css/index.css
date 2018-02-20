@@ -105,3 +105,7 @@ html.theme-black #timer {
     height: 32px;
 }
 
+.speak {
+	color:white;
+	cursor: default;
+}

@@ -45,6 +45,7 @@ function handleClass(item, className) {
 
 // list 선택시 이벤트
 function fileClick(e) {
+	$(document).scrollTop(0);
     $(this).addClass('selected');
     $(this).siblings().removeClass('selected');
     var name = $(this).html();
@@ -60,7 +61,7 @@ function fileClick(e) {
             textList = list;
             var content = $('.content');
             content.html('');
-            $.each(textList, function(index, item) {
+			$.each(textList, function(index, item) {
 				var itemList = item.split('\t');
                 if(itemList[0].length != 0) {
 					var id = name+'-'+itemList[0];
@@ -88,15 +89,16 @@ function fileClick(e) {
 						}						
 					});
 					
-					if(detectmob()) {	
+					//if(detectmob()) {	
 						second.click(function(){	
-							playSound(itemList[1]);
+						say(itemList[1]);
+						//playSound(itemList[1]);
 						});	
-					} else {
+					/*} else {
 						longClick(second, function() {
 							playSound(itemList[1]);
 						});
-					}					
+					}*/					
 					
 					row.append(first);
                     row.append(second);
@@ -107,15 +109,16 @@ function fileClick(e) {
                 third.append(colRow);
 				var firstCol = $('<div></div>').addClass('first').html(itemList[3]);
 				
-				if(detectmob()) {					
+				//if(detectmob()) {					
 					firstCol.click(function() {
-						playSound(itemList[3]);
+						say(itemList[3]);
+						//playSound(itemList[3]);
 					});	
-				} else {
+				/*} else {
 					longClick(firstCol, function() {
 						playSound(itemList[3]);
 					});	
-				}				
+				}*/				
 				
 				var secondCol = $('<div></div>').addClass('second').html(itemList[2]);
 				secondCol.click(function() {
@@ -130,10 +133,29 @@ function fileClick(e) {
     });
 }
 
-function playSound(text) {
+/*function playSound(text) {
 	var msg = new SpeechSynthesisUtterance(text);
 	msg.lang = 'en-US';
+	window.speechSynthesis.cancel();
 	window.speechSynthesis.speak(msg);
+}*/
+
+var sayTimeout = null;
+
+function say(text) {
+    if (speechSynthesis.speaking) {
+        speechSynthesis.cancel();
+
+        if (sayTimeout !== null)
+            clearTimeout(sayTimeout);
+
+        sayTimeout = setTimeout(function () { say(text); }, 250);
+    }
+    else {
+        var message = new SpeechSynthesisUtterance(text);
+        message.lang = "en-US";
+        speechSynthesis.speak(message);
+    }
 }
 
 function longClick(item, func) {

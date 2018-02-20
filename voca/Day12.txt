@@ -39,7 +39,7 @@
 33	intimate	친밀한	close, familiar
 34	blossom	번영하다	flourish, bloom, thrive
 35	groundwork	토대, 기초	foundation, basis, footing
-36	trivial	사소한	small, frivolous, unimportant, insiginificant
+36	trivial	사소한	small, frivolous, unimportant, insignificant
 37	posterity	후대	future generations, next generations
 38	aggravate	악화시키다	make worse, worsen, exacerbate
 39	obtainable	얻을 수 있는	available, accessible, attainable

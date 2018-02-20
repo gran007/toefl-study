@@ -6,13 +6,13 @@
 5	relic	유물, 나머지	remains, remnant, vestige
 6	profoundly	깊이; 대단히	deeply; completely, strongly
 7	deflect	방향을 바꾸다	change the direction of, divert
-8	higlight	강조하다	emphasize, stress, underline, accent
+8	highlight	강조하다	emphasize, stress, underline, accent
 9	exert	(힘, 능력 등을) 가하다, 행사하다	apply, exercise, employ, put forth, wield
 10	potential	잠재적인	possible, prospective, latent
 		가능성	possibility
 11	recurring	되풀이되는	repeated, recurrent
-12	meager	불충분한	scanty, scarce, vely low, deficient
-13	prevail	널리 퍼지다, 만연하다	be dominant, dominant, be widespread, be prevalent
+12	meager	불충분한	scanty, scarce, very low, deficient
+13	prevail	널리 퍼지다, 만연하다	be dominant, dominate, be widespread, be prevalent
 		이기다	triumph
 14	exclusively	오로지, 전적으로	solely, only, entirely, totally
 15	consensus	합의	agreement, consent

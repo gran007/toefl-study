@@ -1,12 +1,12 @@
 순번	단어	뜻	동의어
 1	intact	손상되지 않은	undamaged, unbroken, whole, complete, unaffected
-2	albeit	비록 ~이지만	although, through, even though
+2	albeit	비록 ~이지만	although, though, even though
 3	complex	복잡한	intricate, complicated, elaborate, involved
 		복합 건물; 복합체	group of buildings; system
 4	conventional	전통적인; 통례의	traditional; customary, standard, usual
 5	reasonable	합리적인	sensible, rational, logical
 		(가격이) 적당한	sufficient
-6	attainment	성취	achivement, accomplishment, fulfilment
+6	attainment	성취	achievement, accomplishment, fulfilment
 7	progressively	점진적으로	increasingly
 8	drawback	결점	disadvantage, problem, defect, shortcoming
 9	suppress	억제하다, 참다	hold back, restrain

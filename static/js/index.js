@@ -13,6 +13,7 @@ function init() {
     setPageEvent();
     setTextAreaEvent();
     setCheckBoxEvent();
+	setSpeakEvent();
 }
 
 function getFileList() {
@@ -65,7 +66,7 @@ function fileClick(e) {
     e.stopPropagation();
     time = 0;
     setTimer();
-    $(this).siblings().removeClass('selected');
+    $('.file').removeClass('selected');
     $(this).parent().parent().addClass('selected');
     $(this).parent().slideDown(slideDuration);
     $(this).addClass('selected');
@@ -204,6 +205,33 @@ function setText() {
     $('.checked').text("");
     $('.unchecked').text(text);
     $('.textArea').focus();
+}
+
+var sayTimeout = null;
+
+function setSpeakEvent() {
+	$('.speak').click(function() {
+		var text = '';
+		text += $('.text>.checked').html();
+		text += $('.text>.unchecked').html();
+		say(text);
+	});
+}
+
+function say(text) {
+    if (speechSynthesis.speaking) {
+        speechSynthesis.cancel();
+
+        if (sayTimeout !== null)
+            clearTimeout(sayTimeout);
+
+        sayTimeout = setTimeout(function () { say(text); }, 250);
+    }
+    else {
+        var message = new SpeechSynthesisUtterance(text);
+        message.lang = "en-US";
+        speechSynthesis.speak(message);
+    }
 }
 
 $(function() {

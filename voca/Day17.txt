@@ -44,7 +44,7 @@
 38	transparent	투명한, 명백한	clear, obvious, lucid, limpid
 39	prominence	중요성	importance, greatness
 40	incorporate	통합하다	include, combine, integrate
-41	meticulous	꼼꼼한	careful, through, precise
+41	meticulous	꼼꼼한	careful, thorough, precise
 42	dismantle	분해하다	take apart, disassemble, break down
 43	lavish	풍부한, 호화로운	rich, deluxe, luxurious
 44	dynamic	역동적인	active, energetic, vigorous, robust
